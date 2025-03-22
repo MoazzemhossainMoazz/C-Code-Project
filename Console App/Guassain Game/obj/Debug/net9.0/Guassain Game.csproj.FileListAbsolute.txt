@@ -1,0 +1,14 @@
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\bin\Debug\net9.0\Guassain Game.exe
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\bin\Debug\net9.0\Guassain Game.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\bin\Debug\net9.0\Guassain Game.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\bin\Debug\net9.0\Guassain Game.dll
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\bin\Debug\net9.0\Guassain Game.pdb
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\obj\Debug\net9.0\Guassain Game.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\obj\Debug\net9.0\Guassain Game.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\obj\Debug\net9.0\Guassain Game.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\obj\Debug\net9.0\Guassain Game.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\obj\Debug\net9.0\Guassain Game.dll
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\obj\Debug\net9.0\refint\Guassain Game.dll
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\obj\Debug\net9.0\Guassain Game.pdb
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\obj\Debug\net9.0\Guassain Game.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Guassain Game\Guassain Game\obj\Debug\net9.0\ref\Guassain Game.dll

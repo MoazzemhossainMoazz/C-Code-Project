@@ -24,7 +24,7 @@ class Program
                 for (int i=1; i<=5; i++)
                 {
 
-                    Console.WriteLine("The random number is: " + rand_num);
+                    //Console.WriteLine("The random number is: " + rand_num);
 
                     Console.WriteLine("\nEnter a value between 1 to 10");
                     int number = int.Parse(Console.ReadLine());

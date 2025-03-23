@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Guassain Game")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1ad91a65a13156ace314f1b9c5f53334efcaae84")]
 [assembly: System.Reflection.AssemblyProductAttribute("Guassain Game")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Guassain Game")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

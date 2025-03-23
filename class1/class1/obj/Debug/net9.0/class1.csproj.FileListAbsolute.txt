@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\bin\Debug\net9.0\class1.exe
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\bin\Debug\net9.0\class1.deps.json
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\bin\Debug\net9.0\class1.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\bin\Debug\net9.0\class1.dll
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\bin\Debug\net9.0\class1.pdb
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\obj\Debug\net9.0\class1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\obj\Debug\net9.0\class1.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\obj\Debug\net9.0\class1.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\obj\Debug\net9.0\class1.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\obj\Debug\net9.0\class1.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\obj\Debug\net9.0\class1.dll
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\obj\Debug\net9.0\refint\class1.dll
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\obj\Debug\net9.0\class1.pdb
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\obj\Debug\net9.0\class1.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\class1\class1\obj\Debug\net9.0\ref\class1.dll

@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Guassain Game\\Guassain Game\\Guassain Game.csproj",
+      "projectUniqueName": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Console App\\Guassain Game\\Guassain Game.csproj",
       "projectName": "Guassain Game",
-      "projectPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Guassain Game\\Guassain Game\\Guassain Game.csproj",
+      "projectPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Console App\\Guassain Game\\Guassain Game.csproj",
       "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-      "outputPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Guassain Game\\Guassain Game\\obj\\",
+      "outputPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Console App\\Guassain Game\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

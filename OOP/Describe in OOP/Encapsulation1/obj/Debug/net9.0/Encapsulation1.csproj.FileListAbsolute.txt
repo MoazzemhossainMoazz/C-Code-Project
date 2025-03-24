@@ -1,0 +1,30 @@
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\obj\Debug\net9.0\Encapsulation1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\obj\Debug\net9.0\Encapsulation1.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\obj\Debug\net9.0\Encapsulation1.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\obj\Debug\net9.0\Encapsulation1.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\obj\Debug\net9.0\Encapsulation1.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\bin\Debug\net9.0\Encapsulation1.exe
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\bin\Debug\net9.0\Encapsulation1.deps.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\bin\Debug\net9.0\Encapsulation1.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\bin\Debug\net9.0\Encapsulation1.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\bin\Debug\net9.0\Encapsulation1.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\obj\Debug\net9.0\Encapsulation1.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\obj\Debug\net9.0\refint\Encapsulation1.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\obj\Debug\net9.0\Encapsulation1.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\obj\Debug\net9.0\Encapsulation1.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\Encapsulation1\obj\Debug\net9.0\ref\Encapsulation1.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\bin\Debug\net9.0\Encapsulation1.exe
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\bin\Debug\net9.0\Encapsulation1.deps.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\bin\Debug\net9.0\Encapsulation1.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\bin\Debug\net9.0\Encapsulation1.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\bin\Debug\net9.0\Encapsulation1.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\obj\Debug\net9.0\Encapsulation1.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\obj\Debug\net9.0\Encapsulation1.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\obj\Debug\net9.0\Encapsulation1.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\obj\Debug\net9.0\Encapsulation1.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\obj\Debug\net9.0\Encapsulation1.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\obj\Debug\net9.0\Encapsulation1.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\obj\Debug\net9.0\refint\Encapsulation1.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\obj\Debug\net9.0\Encapsulation1.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\obj\Debug\net9.0\Encapsulation1.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Encapsulation1\obj\Debug\net9.0\ref\Encapsulation1.dll

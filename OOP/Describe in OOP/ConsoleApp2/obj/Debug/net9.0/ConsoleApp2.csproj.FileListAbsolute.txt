@@ -1,0 +1,30 @@
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.exe
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.deps.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\obj\Debug\net9.0\refint\ConsoleApp2.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Encapsulation1\ConsoleApp2\obj\Debug\net9.0\ref\ConsoleApp2.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.exe
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.deps.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\bin\Debug\net9.0\ConsoleApp2.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\obj\Debug\net9.0\refint\ConsoleApp2.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\obj\Debug\net9.0\ConsoleApp2.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\ConsoleApp2\obj\Debug\net9.0\ref\ConsoleApp2.dll

@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\bin\Debug\net9.0\Interface_Achiving_Abstraction.exe
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\bin\Debug\net9.0\Interface_Achiving_Abstraction.deps.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\bin\Debug\net9.0\Interface_Achiving_Abstraction.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\bin\Debug\net9.0\Interface_Achiving_Abstraction.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\bin\Debug\net9.0\Interface_Achiving_Abstraction.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\obj\Debug\net9.0\Interface_Achiving_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\obj\Debug\net9.0\Interface_Achiving_Abstraction.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\obj\Debug\net9.0\Interface_Achiving_Abstraction.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\obj\Debug\net9.0\Interface_Achiving_Abstraction.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\obj\Debug\net9.0\Interface_Achiving_Abstraction.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\obj\Debug\net9.0\Interface_Achiving_Abstraction.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\obj\Debug\net9.0\refint\Interface_Achiving_Abstraction.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\obj\Debug\net9.0\Interface_Achiving_Abstraction.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\obj\Debug\net9.0\Interface_Achiving_Abstraction.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Achiving_Abstraction\obj\Debug\net9.0\ref\Interface_Achiving_Abstraction.dll

@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Achiving_Abstract
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Achieving_Multiple_Inheritance", "Interface_Achieving_Multiple_Inheritance\Interface_Achieving_Multiple_Inheritance.csproj", "{8922FF86-CF3D-445F-9FCC-6E09DB4A9117}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interface_Loose_Coupling", "Interface_Loose_Coupling\Interface_Loose_Coupling.csproj", "{94556656-AFDD-40E5-8611-78E5D7B1DEDE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{8922FF86-CF3D-445F-9FCC-6E09DB4A9117}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8922FF86-CF3D-445F-9FCC-6E09DB4A9117}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8922FF86-CF3D-445F-9FCC-6E09DB4A9117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94556656-AFDD-40E5-8611-78E5D7B1DEDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94556656-AFDD-40E5-8611-78E5D7B1DEDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94556656-AFDD-40E5-8611-78E5D7B1DEDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94556656-AFDD-40E5-8611-78E5D7B1DEDE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

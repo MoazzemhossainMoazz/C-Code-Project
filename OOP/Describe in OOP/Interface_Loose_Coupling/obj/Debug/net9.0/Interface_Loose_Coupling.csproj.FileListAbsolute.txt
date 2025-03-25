@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\bin\Debug\net9.0\Interface_Loose_Coupling.exe
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\bin\Debug\net9.0\Interface_Loose_Coupling.deps.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\bin\Debug\net9.0\Interface_Loose_Coupling.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\bin\Debug\net9.0\Interface_Loose_Coupling.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\bin\Debug\net9.0\Interface_Loose_Coupling.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\obj\Debug\net9.0\Interface_Loose_Coupling.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\obj\Debug\net9.0\Interface_Loose_Coupling.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\obj\Debug\net9.0\Interface_Loose_Coupling.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\obj\Debug\net9.0\Interface_Loose_Coupling.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\obj\Debug\net9.0\Interface_Loose_Coupling.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\obj\Debug\net9.0\Interface_Loose_Coupling.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\obj\Debug\net9.0\refint\Interface_Loose_Coupling.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\obj\Debug\net9.0\Interface_Loose_Coupling.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\obj\Debug\net9.0\Interface_Loose_Coupling.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Interface_Loose_Coupling\obj\Debug\net9.0\ref\Interface_Loose_Coupling.dll

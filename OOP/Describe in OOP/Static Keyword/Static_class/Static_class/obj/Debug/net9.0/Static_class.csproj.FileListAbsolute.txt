@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\bin\Debug\net9.0\Static_class.exe
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\bin\Debug\net9.0\Static_class.deps.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\bin\Debug\net9.0\Static_class.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\bin\Debug\net9.0\Static_class.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\bin\Debug\net9.0\Static_class.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\obj\Debug\net9.0\Static_class.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\obj\Debug\net9.0\Static_class.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\obj\Debug\net9.0\Static_class.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\obj\Debug\net9.0\Static_class.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\obj\Debug\net9.0\Static_class.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\obj\Debug\net9.0\Static_class.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\obj\Debug\net9.0\refint\Static_class.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\obj\Debug\net9.0\Static_class.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\obj\Debug\net9.0\Static_class.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_class\Static_class\obj\Debug\net9.0\ref\Static_class.dll

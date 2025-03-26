@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_class", "Static_class\Static_class.csproj", "{4BCC8CB3-FB80-41AC-9F3C-BDC5D7EACB7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Static_Variable", "..\Static_Variable\Static_Variable.csproj", "{28907A6E-0877-43B9-BAD9-6BE6585E2FAE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{4BCC8CB3-FB80-41AC-9F3C-BDC5D7EACB7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BCC8CB3-FB80-41AC-9F3C-BDC5D7EACB7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BCC8CB3-FB80-41AC-9F3C-BDC5D7EACB7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{28907A6E-0877-43B9-BAD9-6BE6585E2FAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28907A6E-0877-43B9-BAD9-6BE6585E2FAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28907A6E-0877-43B9-BAD9-6BE6585E2FAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28907A6E-0877-43B9-BAD9-6BE6585E2FAE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

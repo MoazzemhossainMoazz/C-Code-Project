@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\bin\Debug\net9.0\Static_Variable.exe
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\bin\Debug\net9.0\Static_Variable.deps.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\bin\Debug\net9.0\Static_Variable.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\bin\Debug\net9.0\Static_Variable.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\bin\Debug\net9.0\Static_Variable.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\obj\Debug\net9.0\Static_Variable.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\obj\Debug\net9.0\Static_Variable.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\obj\Debug\net9.0\Static_Variable.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\obj\Debug\net9.0\Static_Variable.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\obj\Debug\net9.0\Static_Variable.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\obj\Debug\net9.0\Static_Variable.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\obj\Debug\net9.0\refint\Static_Variable.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\obj\Debug\net9.0\Static_Variable.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\obj\Debug\net9.0\Static_Variable.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\Describe in OOP\Static Keyword\Static_Variable\obj\Debug\net9.0\ref\Static_Variable.dll

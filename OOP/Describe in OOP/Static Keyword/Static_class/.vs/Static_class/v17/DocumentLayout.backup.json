@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\Describe in OOP\\Static Keyword\\Static_class\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{28907A6E-0877-43B9-BAD9-6BE6585E2FAE}|..\\Static_Variable\\Static_Variable.csproj|d:\\technoart\\my work\\for learn\\c#\\oop\\describe in oop\\static keyword\\static_variable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4BCC8CB3-FB80-41AC-9F3C-BDC5D7EACB7D}|Static_class\\Static_class.csproj|d:\\technoart\\my work\\for learn\\c#\\oop\\describe in oop\\static keyword\\static_class\\static_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4BCC8CB3-FB80-41AC-9F3C-BDC5D7EACB7D}|Static_class\\Static_class.csproj|solutionrelative:static_class\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{28907A6E-0877-43B9-BAD9-6BE6585E2FAE}|..\\Static_Variable\\Static_Variable.csproj|d:\\technoart\\my work\\for learn\\c#\\oop\\describe in oop\\static keyword\\static_variable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -33,26 +33,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\Describe in OOP\\Static Keyword\\Static_Variable\\Program.cs",
               "RelativeDocumentMoniker": "..\\Static_Variable\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\Describe in OOP\\Static Keyword\\Static_Variable\\Program.cs",
               "RelativeToolTip": "..\\Static_Variable\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T06:44:07.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\Describe in OOP\\Static Keyword\\Static_class\\Static_class\\Program.cs",
               "RelativeDocumentMoniker": "Static_class\\Program.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\Describe in OOP\\Static Keyword\\Static_class\\Static_class\\Program.cs",
-              "RelativeToolTip": "Static_class\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\Describe in OOP\\Static Keyword\\Static_class\\Static_class\\Program.cs*",
+              "RelativeToolTip": "Static_class\\Program.cs*",
+              "ViewState": "AgIAABsAAAAAAAAAAAAgwCoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-26T06:03:44.505Z",
               "EditorCaption": ""

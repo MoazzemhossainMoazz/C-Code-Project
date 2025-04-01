@@ -25,7 +25,7 @@ public class Mp3Player : MusicPlayer
     }
 }
 
-public class WavPlayer : MusicPlayer
+public class WavPlayer : Mp3Player
 {
     public override void Play()
     {

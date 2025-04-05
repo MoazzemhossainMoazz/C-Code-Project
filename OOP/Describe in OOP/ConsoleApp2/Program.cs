@@ -1,6 +1,5 @@
 ﻿using System;
 
-
 //Use Top level Statement, when I don't use the main method
 //var AC = new Car();
 //AC.Accelerate();

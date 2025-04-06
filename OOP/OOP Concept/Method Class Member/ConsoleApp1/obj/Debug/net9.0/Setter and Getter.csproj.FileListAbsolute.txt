@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\bin\Debug\net9.0\Setter and Getter.exe
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\bin\Debug\net9.0\Setter and Getter.deps.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\bin\Debug\net9.0\Setter and Getter.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\bin\Debug\net9.0\Setter and Getter.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\bin\Debug\net9.0\Setter and Getter.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\obj\Debug\net9.0\Setter and Getter.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\obj\Debug\net9.0\Setter and Getter.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\obj\Debug\net9.0\Setter and Getter.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\obj\Debug\net9.0\Setter and Getter.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\obj\Debug\net9.0\Setter and Getter.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\obj\Debug\net9.0\Setter and Getter.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\obj\Debug\net9.0\refint\Setter and Getter.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\obj\Debug\net9.0\Setter and Getter.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\obj\Debug\net9.0\Setter and Getter.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\ConsoleApp1\obj\Debug\net9.0\ref\Setter and Getter.dll

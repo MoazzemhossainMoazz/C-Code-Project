@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\bin\Debug\net9.0\Properties.exe
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\bin\Debug\net9.0\Properties.deps.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\bin\Debug\net9.0\Properties.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\bin\Debug\net9.0\Properties.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\bin\Debug\net9.0\Properties.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\obj\Debug\net9.0\Properties.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\obj\Debug\net9.0\Properties.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\obj\Debug\net9.0\Properties.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\obj\Debug\net9.0\Properties.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\obj\Debug\net9.0\Properties.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\obj\Debug\net9.0\Properties.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\obj\Debug\net9.0\refint\Properties.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\obj\Debug\net9.0\Properties.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\obj\Debug\net9.0\Properties.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Properties\obj\Debug\net9.0\ref\Properties.dll

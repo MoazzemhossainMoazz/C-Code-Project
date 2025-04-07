@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\OOP Concept\\Method Class Member\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5B751AC4-5E38-4F6F-A3C1-955E0A763753}|Properties\\Properties.csproj|d:\\technoart\\my work\\for learn\\c#\\oop\\oop concept\\method class member\\properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5B751AC4-5E38-4F6F-A3C1-955E0A763753}|Properties\\Properties.csproj|solutionrelative:properties\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0E5A4436-C58E-4E58-A022-CDCB770B2CBD}|Inheritance\\Inheritance.csproj|d:\\technoart\\my work\\for learn\\c#\\oop\\oop concept\\method class member\\inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5A4436-C58E-4E58-A022-CDCB770B2CBD}|Inheritance\\Inheritance.csproj|solutionrelative:inheritance\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AAEBDEA3-C6E6-4D1C-B87D-08ACCE78D61F}|Properties using Condition\\Properties using Condition.csproj|d:\\technoart\\my work\\for learn\\c#\\oop\\oop concept\\method class member\\properties using condition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,6 +21,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{57F6E685-AE12-4562-B1D0-819A6D05864B}|Method Class Member\\Method Class Member.csproj|d:\\technoart\\my work\\for learn\\c#\\oop\\oop concept\\method class member\\method class member\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{57F6E685-AE12-4562-B1D0-819A6D05864B}|Method Class Member\\Method Class Member.csproj|solutionrelative:method class member\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EC6F6A89-45A5-429D-B5F4-F2DB5BFAC37E}|this and readonly\\this and readonly.csproj|d:\\technoart\\my work\\for learn\\c#\\oop\\oop concept\\method class member\\this and readonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EC6F6A89-45A5-429D-B5F4-F2DB5BFAC37E}|this and readonly\\this and readonly.csproj|solutionrelative:this and readonly\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,28 +50,41 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\OOP Concept\\Method Class Member\\Inheritance\\Program.cs",
+              "RelativeDocumentMoniker": "Inheritance\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\OOP Concept\\Method Class Member\\Inheritance\\Program.cs",
+              "RelativeToolTip": "Inheritance\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T07:21:02.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\OOP Concept\\Method Class Member\\this and readonly\\Program.cs",
+              "RelativeDocumentMoniker": "this and readonly\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\OOP Concept\\Method Class Member\\this and readonly\\Program.cs",
+              "RelativeToolTip": "this and readonly\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T05:45:26.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\OOP Concept\\Method Class Member\\Properties using Condition\\Program.cs",
               "RelativeDocumentMoniker": "Properties using Condition\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\OOP Concept\\Method Class Member\\Properties using Condition\\Program.cs",
               "RelativeToolTip": "Properties using Condition\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T13:23:55.376Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\OOP Concept\\Method Class Member\\Properties\\Program.cs",
-              "RelativeDocumentMoniker": "Properties\\Program.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\OOP Concept\\Method Class Member\\Properties\\Program.cs*",
-              "RelativeToolTip": "Properties\\Program.cs*",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCQAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T11:49:36.312Z",
               "EditorCaption": ""
             },
             {
@@ -78,7 +95,7 @@
               "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\OOP Concept\\Method Class Member\\ConsoleApp1\\Program.cs",
               "RelativeToolTip": "ConsoleApp1\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBIAAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-06T09:59:29.271Z",
               "EditorCaption": ""
@@ -91,9 +108,10 @@
               "RelativeDocumentMoniker": "Constructor\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\OOP Concept\\Method Class Member\\Constructor\\Program.cs",
               "RelativeToolTip": "Constructor\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAADwvx4AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T08:31:38.135Z"
+              "WhenOpened": "2025-04-06T08:31:38.135Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -103,9 +121,10 @@
               "RelativeDocumentMoniker": "Method Class Member\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\OOP\\OOP Concept\\Method Class Member\\Method Class Member\\Program.cs",
               "RelativeToolTip": "Method Class Member\\Program.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAQwCkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-06T06:35:56.829Z"
+              "WhenOpened": "2025-04-06T06:35:56.829Z",
+              "EditorCaption": ""
             }
           ]
         }

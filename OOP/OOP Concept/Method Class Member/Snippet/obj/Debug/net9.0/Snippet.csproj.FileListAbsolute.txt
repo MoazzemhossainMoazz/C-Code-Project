@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\bin\Debug\net9.0\Snippet.exe
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\bin\Debug\net9.0\Snippet.deps.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\bin\Debug\net9.0\Snippet.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\bin\Debug\net9.0\Snippet.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\bin\Debug\net9.0\Snippet.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\obj\Debug\net9.0\Snippet.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\obj\Debug\net9.0\Snippet.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\obj\Debug\net9.0\Snippet.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\obj\Debug\net9.0\Snippet.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\obj\Debug\net9.0\Snippet.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\obj\Debug\net9.0\Snippet.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\obj\Debug\net9.0\refint\Snippet.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\obj\Debug\net9.0\Snippet.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\obj\Debug\net9.0\Snippet.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Snippet\obj\Debug\net9.0\ref\Snippet.dll

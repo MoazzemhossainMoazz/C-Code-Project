@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("this and readonly")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a6011e6b2b63937b5204c4e16c6bdeb4f2146db0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a31fe8c5bda9914336bbccb92b8d061fc080cf06")]
 [assembly: System.Reflection.AssemblyProductAttribute("this and readonly")]
 [assembly: System.Reflection.AssemblyTitleAttribute("this and readonly")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -40,6 +40,11 @@
     private int CalculateAge()
     {
         int age = DateTime.Now.Year - DateOfBirth.Year;
+
+        if(DateTime.Now < DateOfBirth.AddYears(age))
+        {
+            age--; 
+        }
         return age;
     }
 
@@ -61,7 +66,7 @@ public class MyClass
             Student s2 = new Student("Moazz2", new DateTime(1993, 3, 30), "12201");
 
             Console.WriteLine($"Student Details: ");
-            Console.WriteLine($"Name: {s1.Name}, Roll: {s1.RollNumber}, Age: {s1.Age}");
+            Console.WriteLine($"Name: {s1.Name}, Date of Birth: {s1.DateOfBirth.ToShortDateString()}, Roll: {s1.RollNumber}, Age: {s1.Age}");
             Console.WriteLine($"Name: {s2.Name}, Roll: {s2.RollNumber}, Age: {s2.Age}");
 
         }

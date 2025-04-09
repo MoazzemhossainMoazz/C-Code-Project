@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Console App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E29AEC12-202F-4FD3-B0F7-5843FE82CE71}|Foreach Loop\\Foreach Loop.csproj|d:\\technoart\\my work\\for learn\\c#\\console app\\foreach loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E29AEC12-202F-4FD3-B0F7-5843FE82CE71}|Foreach Loop\\Foreach Loop.csproj|solutionrelative:foreach loop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B857FEE9-2CFC-49D3-A6B1-CAA17955B81E}|Guassain Game\\Guassain Game.csproj|d:\\technoart\\my work\\for learn\\c#\\console app\\guassain game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B857FEE9-2CFC-49D3-A6B1-CAA17955B81E}|Guassain Game\\Guassain Game.csproj|solutionrelative:guassain game\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedHeight": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Console App\\Guassain Game\\Program.cs",
               "RelativeDocumentMoniker": "Guassain Game\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Console App\\Guassain Game\\Program.cs",
               "RelativeToolTip": "Guassain Game\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAqwBoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-20T06:01:32.996Z",
               "IsPinned": true,
@@ -48,7 +52,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Console App\\Foreach Loop\\Program.cs",
+              "RelativeDocumentMoniker": "Foreach Loop\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Console App\\Foreach Loop\\Program.cs*",
+              "RelativeToolTip": "Foreach Loop\\Program.cs*",
+              "ViewState": "AgIAACEAAAAAAAAAAAAiwDUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T11:39:41.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Console App\\Calculator\\Program.cs",
               "RelativeDocumentMoniker": "Calculator\\Program.cs",

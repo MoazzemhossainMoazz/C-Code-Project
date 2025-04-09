@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\bin\Debug\net9.0\Foreach Loop.exe
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\bin\Debug\net9.0\Foreach Loop.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\bin\Debug\net9.0\Foreach Loop.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\bin\Debug\net9.0\Foreach Loop.dll
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\bin\Debug\net9.0\Foreach Loop.pdb
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\obj\Debug\net9.0\Foreach Loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\obj\Debug\net9.0\Foreach Loop.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\obj\Debug\net9.0\Foreach Loop.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\obj\Debug\net9.0\Foreach Loop.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\obj\Debug\net9.0\Foreach Loop.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\obj\Debug\net9.0\Foreach Loop.dll
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\obj\Debug\net9.0\refint\Foreach Loop.dll
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\obj\Debug\net9.0\Foreach Loop.pdb
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\obj\Debug\net9.0\Foreach Loop.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Console App\Foreach Loop\obj\Debug\net9.0\ref\Foreach Loop.dll

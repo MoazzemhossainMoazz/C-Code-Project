@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\bin\Debug\net9.0\Some Type of Array.exe
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\bin\Debug\net9.0\Some Type of Array.deps.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\bin\Debug\net9.0\Some Type of Array.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\bin\Debug\net9.0\Some Type of Array.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\bin\Debug\net9.0\Some Type of Array.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\obj\Debug\net9.0\Some Type of Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\obj\Debug\net9.0\Some Type of Array.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\obj\Debug\net9.0\Some Type of Array.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\obj\Debug\net9.0\Some Type of Array.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\obj\Debug\net9.0\Some Type of Array.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\obj\Debug\net9.0\Some Type of Array.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\obj\Debug\net9.0\refint\Some Type of Array.dll
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\obj\Debug\net9.0\Some Type of Array.pdb
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\obj\Debug\net9.0\Some Type of Array.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\OOP\OOP Concept\Method Class Member\Some Type of Array\obj\Debug\net9.0\ref\Some Type of Array.dll

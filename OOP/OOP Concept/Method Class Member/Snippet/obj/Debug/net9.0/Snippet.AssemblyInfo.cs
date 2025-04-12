@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Snippet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+759662a68fbf352753e4e30b1b70061e33f934fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b52bef4ac21243cdb1e196d80f3a7c4064e8c15")]
 [assembly: System.Reflection.AssemblyProductAttribute("Snippet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Snippet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

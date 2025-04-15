@@ -143,6 +143,6 @@ class StdMain
         Console.WriteLine($"Name: {s1.Name}, Date of Birth: {s1.DateOfBirth.ToShortDateString()}, Roll {s1.RollNumber}, Age: {s1.Age}");
 
         Student s2 = new Student("Moazz", new DateTime(1990, 3, 30), "CSE002");
-        Console.WriteLine($"{s2.Name}, {s2.DateOfBirth.ToShortDateString()}, {s2.RollNumber}, {s2.Age}");
+        Console.WriteLine($"Name: {s2.Name}, Date of Birth: {s2.DateOfBirth.ToShortDateString()}, Roll Number: {s2.RollNumber}, Age: {s2.Age}");
     }
 }

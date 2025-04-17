@@ -28,42 +28,77 @@ class Program
 
         int[] numbers = new int[count];
 
-        for (int i=0; i<count; i++)
+
+        //for (int i=0; i<count; i++)
+        //{
+        //    Console.Write($"Num {i + 1}: ");
+        //    numbers[i] = int.Parse(Console.ReadLine());
+        //}
+        int index = 0;
+        foreach (int num in numbers)
         {
-            Console.Write($"Num {i + 1}: ");
-            numbers[i] = int.Parse(Console.ReadLine());
+            Console.Write($"Num {index + 1}: ");
+            numbers[index] = int.Parse(Console.ReadLine());
+            index++;
         }
 
         Console.Write("\n");
         Console.Write($"\nList of numbers devided by 3: ");
-        for (int i = 0; i < count; i++)
+        //for (int i = 0; i < count; i++)
+        //{
+        //    //Console.WriteLine($"Num {i + 1}: {numbers[i]}");
+        //    if (numbers[i]%3 == 0)
+        //    {
+        //        Console.Write($"\n {numbers[i]}"); 
+        //    }
+        //}
+
+        foreach(int num in numbers)
         {
-            //Console.WriteLine($"Num {i + 1}: {numbers[i]}");
-            if (numbers[i]%3 == 0)
+            if(num%3 == 0)
             {
-                Console.Write($"\n {numbers[i]}"); 
+                Console.Write($"\n {num}");
             }
         }
+
 
         Console.Write("\n");
         Console.Write($"\nList of numbers devided by 5: ");
-        for (int i = 0; i < count; i++)
+        //for (int i = 0; i < count; i++)
+        //{
+        //    if (numbers[i] % 5 == 0)
+        //    {
+        //        Console.Write($"\n {numbers[i]}");
+        //    }
+        //}
+        foreach(int num in numbers)
         {
-            if (numbers[i] % 5 == 0)
+            if(num%5 == 0)
             {
-                Console.Write($"\n {numbers[i]}");
+                Console.Write($"\n{num}");
             }
         }
 
+
+
         Console.Write("\n");
         Console.Write($"\nAnother numbers are: ");
-        for (int i = 0; i < count; i++)
+        //for (int i = 0; i < count; i++)
+        //{
+        //    if (numbers[i] % 3 != 0 && numbers[i] % 5 != 0)
+        //    {
+        //        Console.Write($"\n {numbers[i]}");
+        //    }
+        //}
+
+        foreach(int num in numbers)
         {
-            if (numbers[i] % 3 != 0 && numbers[i] % 5 != 0)
+            if(num%3 != 0 && num%5 != 0)
             {
-                Console.Write($"\n {numbers[i]}");
+                Console.Write($"\n {num}");
             }
         }
+
         Console.Write("\n\n");
     }
 }

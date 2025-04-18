@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5B8FB52F-95D3-41E4-BE6E-A30EA7990E2B}|RemoveSpecifiedChar\\RemoveSpecifiedChar.csproj|d:\\technoart\\my work\\for learn\\c#\\w3resource\\specifiedoperations\\removespecifiedchar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B8FB52F-95D3-41E4-BE6E-A30EA7990E2B}|RemoveSpecifiedChar\\RemoveSpecifiedChar.csproj|solutionrelative:removespecifiedchar\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1657AED9-23E7-44FC-BFC4-4C351B77B4D7}|CelsiusToKelvinFahrenheit\\CelsiusToKelvinFahrenheit.csproj|d:\\technoart\\my work\\for learn\\c#\\w3resource\\specifiedoperations\\celsiustokelvinfahrenheit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1657AED9-23E7-44FC-BFC4-4C351B77B4D7}|CelsiusToKelvinFahrenheit\\CelsiusToKelvinFahrenheit.csproj|solutionrelative:celsiustokelvinfahrenheit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{557AF943-F03B-4835-8EA6-0FA88E444495}|PrintAgeMessage\\PrintAgeMessage.csproj|d:\\technoart\\my work\\for learn\\c#\\w3resource\\specifiedoperations\\printagemessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{557AF943-F03B-4835-8EA6-0FA88E444495}|PrintAgeMessage\\PrintAgeMessage.csproj|solutionrelative:printagemessage\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DF47FBAB-446C-449A-BCD7-5DDCD09DA6D3}|AverageOfNumbers\\AverageOfNumbers.csproj|d:\\technoart\\my work\\for learn\\c#\\w3resource\\specifiedoperations\\averageofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DF47FBAB-446C-449A-BCD7-5DDCD09DA6D3}|AverageOfNumbers\\AverageOfNumbers.csproj|solutionrelative:averageofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -52,18 +64,57 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\RemoveSpecifiedChar\\Program.cs",
+              "RelativeDocumentMoniker": "RemoveSpecifiedChar\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\RemoveSpecifiedChar\\Program.cs",
+              "RelativeToolTip": "RemoveSpecifiedChar\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T10:19:41.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\CelsiusToKelvinFahrenheit\\Program.cs",
+              "RelativeDocumentMoniker": "CelsiusToKelvinFahrenheit\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\CelsiusToKelvinFahrenheit\\Program.cs",
+              "RelativeToolTip": "CelsiusToKelvinFahrenheit\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:56:14.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\PrintAgeMessage\\Program.cs",
+              "RelativeDocumentMoniker": "PrintAgeMessage\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\PrintAgeMessage\\Program.cs",
+              "RelativeToolTip": "PrintAgeMessage\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T09:01:35.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\AverageOfNumbers\\Program.cs",
               "RelativeDocumentMoniker": "AverageOfNumbers\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\AverageOfNumbers\\Program.cs",
               "RelativeToolTip": "AverageOfNumbers\\Program.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-18T01:15:26.084Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\Multiplication Table\\Program.cs",
               "RelativeDocumentMoniker": "Multiplication Table\\Program.cs",
@@ -71,12 +122,11 @@
               "RelativeToolTip": "Multiplication Table\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T01:06:08.813Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T01:06:08.813Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\ArithmaticOperations\\Program.cs",
               "RelativeDocumentMoniker": "ArithmaticOperations\\Program.cs",
@@ -84,12 +134,11 @@
               "RelativeToolTip": "ArithmaticOperations\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-18T00:55:30.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-18T00:55:30.386Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\MultiplyThreeNumber\\Program.cs",
               "RelativeDocumentMoniker": "MultiplyThreeNumber\\Program.cs",
@@ -97,12 +146,11 @@
               "RelativeToolTip": "MultiplyThreeNumber\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T16:11:12.313Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T16:11:12.313Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\SwappingTwoNumber\\Program.cs",
               "RelativeDocumentMoniker": "SwappingTwoNumber\\Program.cs",
@@ -114,7 +162,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\SpecifiedOperations\\Program.cs",
               "RelativeDocumentMoniker": "SpecifiedOperations\\Program.cs",

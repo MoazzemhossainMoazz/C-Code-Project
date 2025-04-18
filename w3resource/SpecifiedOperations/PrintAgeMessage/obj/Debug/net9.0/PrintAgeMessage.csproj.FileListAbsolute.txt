@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\obj\Debug\net9.0\PrintAgeMessage.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\obj\Debug\net9.0\PrintAgeMessage.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\obj\Debug\net9.0\PrintAgeMessage.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\obj\Debug\net9.0\PrintAgeMessage.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\obj\Debug\net9.0\PrintAgeMessage.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\bin\Debug\net9.0\PrintAgeMessage.exe
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\bin\Debug\net9.0\PrintAgeMessage.deps.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\bin\Debug\net9.0\PrintAgeMessage.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\bin\Debug\net9.0\PrintAgeMessage.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\bin\Debug\net9.0\PrintAgeMessage.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\obj\Debug\net9.0\PrintAgeMessage.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\obj\Debug\net9.0\refint\PrintAgeMessage.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\obj\Debug\net9.0\PrintAgeMessage.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\obj\Debug\net9.0\PrintAgeMessage.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\PrintAgeMessage\obj\Debug\net9.0\ref\PrintAgeMessage.dll

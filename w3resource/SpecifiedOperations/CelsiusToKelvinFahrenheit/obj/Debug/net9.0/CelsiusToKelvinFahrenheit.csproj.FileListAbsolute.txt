@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\bin\Debug\net9.0\CelsiusToKelvinFahrenheit.exe
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\bin\Debug\net9.0\CelsiusToKelvinFahrenheit.deps.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\bin\Debug\net9.0\CelsiusToKelvinFahrenheit.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\bin\Debug\net9.0\CelsiusToKelvinFahrenheit.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\bin\Debug\net9.0\CelsiusToKelvinFahrenheit.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\obj\Debug\net9.0\CelsiusToKelvinFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\obj\Debug\net9.0\CelsiusToKelvinFahrenheit.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\obj\Debug\net9.0\CelsiusToKelvinFahrenheit.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\obj\Debug\net9.0\CelsiusToKelvinFahrenheit.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\obj\Debug\net9.0\CelsiusToKelvinFahrenheit.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\obj\Debug\net9.0\CelsiusToKelvinFahrenheit.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\obj\Debug\net9.0\refint\CelsiusToKelvinFahrenheit.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\obj\Debug\net9.0\CelsiusToKelvinFahrenheit.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\obj\Debug\net9.0\CelsiusToKelvinFahrenheit.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\CelsiusToKelvinFahrenheit\obj\Debug\net9.0\ref\CelsiusToKelvinFahrenheit.dll

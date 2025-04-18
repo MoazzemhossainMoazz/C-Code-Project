@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\bin\Debug\net9.0\RemoveSpecifiedChar.exe
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\bin\Debug\net9.0\RemoveSpecifiedChar.deps.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\bin\Debug\net9.0\RemoveSpecifiedChar.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\bin\Debug\net9.0\RemoveSpecifiedChar.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\bin\Debug\net9.0\RemoveSpecifiedChar.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\obj\Debug\net9.0\RemoveSpecifiedChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\obj\Debug\net9.0\RemoveSpecifiedChar.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\obj\Debug\net9.0\RemoveSpecifiedChar.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\obj\Debug\net9.0\RemoveSpecifiedChar.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\obj\Debug\net9.0\RemoveSpecifiedChar.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\obj\Debug\net9.0\RemoveSpecifiedChar.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\obj\Debug\net9.0\refint\RemoveSpecifiedChar.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\obj\Debug\net9.0\RemoveSpecifiedChar.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\obj\Debug\net9.0\RemoveSpecifiedChar.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\RemoveSpecifiedChar\obj\Debug\net9.0\ref\RemoveSpecifiedChar.dll

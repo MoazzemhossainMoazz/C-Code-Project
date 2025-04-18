@@ -52,7 +52,6 @@ class Program
         //        Console.Write($"\n {numbers[i]}"); 
         //    }
         //}
-
         foreach(int num in numbers)
         {
             if(num%3 == 0)
@@ -90,7 +89,6 @@ class Program
         //        Console.Write($"\n {numbers[i]}");
         //    }
         //}
-
         foreach(int num in numbers)
         {
             if(num%3 != 0 && num%5 != 0)

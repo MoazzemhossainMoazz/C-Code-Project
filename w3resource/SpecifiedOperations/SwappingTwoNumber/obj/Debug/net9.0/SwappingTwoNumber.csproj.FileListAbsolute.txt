@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\bin\Debug\net9.0\SwappingTwoNumber.exe
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\bin\Debug\net9.0\SwappingTwoNumber.deps.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\bin\Debug\net9.0\SwappingTwoNumber.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\bin\Debug\net9.0\SwappingTwoNumber.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\bin\Debug\net9.0\SwappingTwoNumber.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\obj\Debug\net9.0\SwappingTwoNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\obj\Debug\net9.0\SwappingTwoNumber.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\obj\Debug\net9.0\SwappingTwoNumber.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\obj\Debug\net9.0\SwappingTwoNumber.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\obj\Debug\net9.0\SwappingTwoNumber.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\obj\Debug\net9.0\SwappingTwoNumber.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\obj\Debug\net9.0\refint\SwappingTwoNumber.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\obj\Debug\net9.0\SwappingTwoNumber.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\obj\Debug\net9.0\SwappingTwoNumber.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SwappingTwoNumber\obj\Debug\net9.0\ref\SwappingTwoNumber.dll

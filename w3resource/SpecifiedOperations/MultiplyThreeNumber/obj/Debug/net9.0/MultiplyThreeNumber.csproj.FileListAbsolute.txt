@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\obj\Debug\net9.0\MultiplyThreeNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\obj\Debug\net9.0\MultiplyThreeNumber.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\obj\Debug\net9.0\MultiplyThreeNumber.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\obj\Debug\net9.0\MultiplyThreeNumber.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\obj\Debug\net9.0\MultiplyThreeNumber.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\bin\Debug\net9.0\MultiplyThreeNumber.exe
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\bin\Debug\net9.0\MultiplyThreeNumber.deps.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\bin\Debug\net9.0\MultiplyThreeNumber.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\bin\Debug\net9.0\MultiplyThreeNumber.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\bin\Debug\net9.0\MultiplyThreeNumber.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\obj\Debug\net9.0\MultiplyThreeNumber.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\obj\Debug\net9.0\refint\MultiplyThreeNumber.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\obj\Debug\net9.0\MultiplyThreeNumber.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\obj\Debug\net9.0\MultiplyThreeNumber.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\MultiplyThreeNumber\obj\Debug\net9.0\ref\MultiplyThreeNumber.dll

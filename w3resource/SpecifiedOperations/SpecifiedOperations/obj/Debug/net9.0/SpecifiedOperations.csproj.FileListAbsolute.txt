@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\bin\Debug\net9.0\SpecifiedOperations.exe
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\bin\Debug\net9.0\SpecifiedOperations.deps.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\bin\Debug\net9.0\SpecifiedOperations.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\bin\Debug\net9.0\SpecifiedOperations.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\bin\Debug\net9.0\SpecifiedOperations.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\obj\Debug\net9.0\SpecifiedOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\obj\Debug\net9.0\SpecifiedOperations.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\obj\Debug\net9.0\SpecifiedOperations.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\obj\Debug\net9.0\SpecifiedOperations.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\obj\Debug\net9.0\SpecifiedOperations.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\obj\Debug\net9.0\SpecifiedOperations.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\obj\Debug\net9.0\refint\SpecifiedOperations.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\obj\Debug\net9.0\SpecifiedOperations.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\obj\Debug\net9.0\SpecifiedOperations.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\SpecifiedOperations\obj\Debug\net9.0\ref\SpecifiedOperations.dll

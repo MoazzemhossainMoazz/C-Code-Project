@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\bin\Debug\net9.0\Multiplication Table.exe
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\bin\Debug\net9.0\Multiplication Table.deps.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\bin\Debug\net9.0\Multiplication Table.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\bin\Debug\net9.0\Multiplication Table.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\bin\Debug\net9.0\Multiplication Table.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\obj\Debug\net9.0\Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\obj\Debug\net9.0\Multiplication Table.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\obj\Debug\net9.0\Multiplication Table.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\obj\Debug\net9.0\Multiplication Table.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\obj\Debug\net9.0\Multiplication Table.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\obj\Debug\net9.0\Multiplication Table.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\obj\Debug\net9.0\refint\Multiplication Table.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\obj\Debug\net9.0\Multiplication Table.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\obj\Debug\net9.0\Multiplication Table.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\Multiplication Table\obj\Debug\net9.0\ref\Multiplication Table.dll

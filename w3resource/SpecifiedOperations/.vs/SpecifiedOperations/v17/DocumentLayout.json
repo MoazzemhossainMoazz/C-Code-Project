@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DF47FBAB-446C-449A-BCD7-5DDCD09DA6D3}|AverageOfNumbers\\AverageOfNumbers.csproj|d:\\technoart\\my work\\for learn\\c#\\w3resource\\specifiedoperations\\averageofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF47FBAB-446C-449A-BCD7-5DDCD09DA6D3}|AverageOfNumbers\\AverageOfNumbers.csproj|solutionrelative:averageofnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5EE1420-5CB6-422D-AAFA-537694B4E5F6}|Multiplication Table\\Multiplication Table.csproj|d:\\technoart\\my work\\for learn\\c#\\w3resource\\specifiedoperations\\multiplication table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5EE1420-5CB6-422D-AAFA-537694B4E5F6}|Multiplication Table\\Multiplication Table.csproj|solutionrelative:multiplication table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A28A6184-570B-4C0F-B8B0-3A6661237959}|ArithmaticOperations\\ArithmaticOperations.csproj|d:\\technoart\\my work\\for learn\\c#\\w3resource\\specifiedoperations\\arithmaticoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A28A6184-570B-4C0F-B8B0-3A6661237959}|ArithmaticOperations\\ArithmaticOperations.csproj|solutionrelative:arithmaticoperations\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{2C68A619-C044-48A7-B3ED-72AAC99293E0}|MultiplyThreeNumber\\MultiplyThreeNumber.csproj|d:\\technoart\\my work\\for learn\\c#\\w3resource\\specifiedoperations\\multiplythreenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2C68A619-C044-48A7-B3ED-72AAC99293E0}|MultiplyThreeNumber\\MultiplyThreeNumber.csproj|solutionrelative:multiplythreenumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -40,6 +52,45 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\AverageOfNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "AverageOfNumbers\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\AverageOfNumbers\\Program.cs",
+              "RelativeToolTip": "AverageOfNumbers\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:15:26.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\Multiplication Table\\Program.cs",
+              "RelativeDocumentMoniker": "Multiplication Table\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\Multiplication Table\\Program.cs",
+              "RelativeToolTip": "Multiplication Table\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T01:06:08.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\ArithmaticOperations\\Program.cs",
+              "RelativeDocumentMoniker": "ArithmaticOperations\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\ArithmaticOperations\\Program.cs",
+              "RelativeToolTip": "ArithmaticOperations\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:55:30.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\MultiplyThreeNumber\\Program.cs",
               "RelativeDocumentMoniker": "MultiplyThreeNumber\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\MultiplyThreeNumber\\Program.cs",
@@ -51,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\SwappingTwoNumber\\Program.cs",
               "RelativeDocumentMoniker": "SwappingTwoNumber\\Program.cs",
@@ -59,12 +110,11 @@
               "RelativeToolTip": "SwappingTwoNumber\\Program.cs",
               "ViewState": "AgIAAAIAAAAAAAAAAAAQwAcAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:56:54.645Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:56:54.645Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\w3resource\\SpecifiedOperations\\SpecifiedOperations\\Program.cs",
               "RelativeDocumentMoniker": "SpecifiedOperations\\Program.cs",
@@ -72,8 +122,7 @@
               "RelativeToolTip": "SpecifiedOperations\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T15:27:18.447Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T15:27:18.447Z"
             }
           ]
         }

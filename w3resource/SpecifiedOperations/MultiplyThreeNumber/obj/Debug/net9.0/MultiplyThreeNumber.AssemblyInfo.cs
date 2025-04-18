@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MultiplyThreeNumber")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d9b2918ec1da8204c188f82ae9537ec31de4ada")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+24ec68244f50d321989158447211a150a4ec747e")]
 [assembly: System.Reflection.AssemblyProductAttribute("MultiplyThreeNumber")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MultiplyThreeNumber")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\bin\Debug\net9.0\AverageOfNumbers.exe
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\bin\Debug\net9.0\AverageOfNumbers.deps.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\bin\Debug\net9.0\AverageOfNumbers.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\bin\Debug\net9.0\AverageOfNumbers.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\bin\Debug\net9.0\AverageOfNumbers.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\obj\Debug\net9.0\AverageOfNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\obj\Debug\net9.0\AverageOfNumbers.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\obj\Debug\net9.0\AverageOfNumbers.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\obj\Debug\net9.0\AverageOfNumbers.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\obj\Debug\net9.0\AverageOfNumbers.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\obj\Debug\net9.0\AverageOfNumbers.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\obj\Debug\net9.0\refint\AverageOfNumbers.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\obj\Debug\net9.0\AverageOfNumbers.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\obj\Debug\net9.0\AverageOfNumbers.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\AverageOfNumbers\obj\Debug\net9.0\ref\AverageOfNumbers.dll

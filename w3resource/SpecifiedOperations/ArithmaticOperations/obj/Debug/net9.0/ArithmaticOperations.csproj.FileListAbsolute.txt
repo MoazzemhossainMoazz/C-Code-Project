@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\bin\Debug\net9.0\ArithmaticOperations.exe
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\bin\Debug\net9.0\ArithmaticOperations.deps.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\bin\Debug\net9.0\ArithmaticOperations.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\bin\Debug\net9.0\ArithmaticOperations.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\bin\Debug\net9.0\ArithmaticOperations.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\obj\Debug\net9.0\ArithmaticOperations.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\obj\Debug\net9.0\ArithmaticOperations.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\obj\Debug\net9.0\ArithmaticOperations.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\obj\Debug\net9.0\ArithmaticOperations.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\obj\Debug\net9.0\ArithmaticOperations.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\obj\Debug\net9.0\ArithmaticOperations.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\obj\Debug\net9.0\refint\ArithmaticOperations.dll
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\obj\Debug\net9.0\ArithmaticOperations.pdb
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\obj\Debug\net9.0\ArithmaticOperations.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\w3resource\SpecifiedOperations\ArithmaticOperations\obj\Debug\net9.0\ref\ArithmaticOperations.dll

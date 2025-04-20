@@ -34,24 +34,16 @@
 //    }
 //}
 
-public class MyClass
+class Program
 {
-    public static void Main(string[] args)
+    static void Main()
     {
-        int[][] jaggedArray = new int[][]
+        int[] numbers = { 1, 4, 6, 7, 9 };
+        foreach (int num in numbers)
         {
-            new int[] {1, 2 },
-            new int[] {3, 4, 5 },
-            new int[] {6 },
-            new int[] {7, 8, 9, 10}
-        };
-        foreach(var row in jaggedArray)
-        {
-            foreach(var item in row)
-            {
-                Console.Write($"{item}");
-            }
-            Console.WriteLine();
+            Console.WriteLine($"{num}");
+
         }
     }
+    
 }

@@ -26,9 +26,8 @@ class Program
         Console.Write("How many numbers do you want to input:  ");
         int count = int.Parse(Console.ReadLine());
 
-        int[] numbers = new int[count];
-
-
+        int[] numbers = new int [count];
+        
         //for (int i=0; i<count; i++)
         //{
         //    Console.Write($"Num {i + 1}: ");
@@ -40,6 +39,12 @@ class Program
             Console.Write($"Num {index + 1}: ");
             numbers[index] = int.Parse(Console.ReadLine());
             index++;
+        }
+
+        Console.Write($"\nInputed all numbers are: ");
+        foreach (int num in numbers)
+        {
+            Console.Write($"\n {num}");
         }
 
         Console.Write("\n");
@@ -74,10 +79,9 @@ class Program
         {
             if(num%5 == 0)
             {
-                Console.Write($"\n{num}");
+                Console.Write($"\n {num}");
             }
         }
-
 
 
         Console.Write("\n");
@@ -96,7 +100,6 @@ class Program
                 Console.Write($"\n {num}");
             }
         }
-
         Console.Write("\n\n");
     }
 }

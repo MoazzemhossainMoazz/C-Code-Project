@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Ca
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Foreach Loop", "Foreach Loop\Foreach Loop.csproj", "{E29AEC12-202F-4FD3-B0F7-5843FE82CE71}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JaggedArray", "JaggedArray\JaggedArray.csproj", "{3CC3BA03-B1B3-47B3-9C87-CDCCCA7E37A1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{E29AEC12-202F-4FD3-B0F7-5843FE82CE71}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E29AEC12-202F-4FD3-B0F7-5843FE82CE71}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E29AEC12-202F-4FD3-B0F7-5843FE82CE71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC3BA03-B1B3-47B3-9C87-CDCCCA7E37A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC3BA03-B1B3-47B3-9C87-CDCCCA7E37A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC3BA03-B1B3-47B3-9C87-CDCCCA7E37A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC3BA03-B1B3-47B3-9C87-CDCCCA7E37A1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

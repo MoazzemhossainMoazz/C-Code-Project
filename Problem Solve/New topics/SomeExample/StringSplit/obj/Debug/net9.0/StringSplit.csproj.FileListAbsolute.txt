@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\bin\Debug\net9.0\StringSplit.exe
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\bin\Debug\net9.0\StringSplit.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\bin\Debug\net9.0\StringSplit.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\bin\Debug\net9.0\StringSplit.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\bin\Debug\net9.0\StringSplit.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\obj\Debug\net9.0\StringSplit.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\obj\Debug\net9.0\StringSplit.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\obj\Debug\net9.0\StringSplit.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\obj\Debug\net9.0\StringSplit.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\obj\Debug\net9.0\StringSplit.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\obj\Debug\net9.0\StringSplit.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\obj\Debug\net9.0\refint\StringSplit.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\obj\Debug\net9.0\StringSplit.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\obj\Debug\net9.0\StringSplit.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\StringSplit\obj\Debug\net9.0\ref\StringSplit.dll

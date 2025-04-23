@@ -1,0 +1,10 @@
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingResultInWPF\obj\Debug\net9.0-windows\App.g.cs
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingResultInWPF\obj\Debug\net9.0-windows\SortingResultInWPF_MarkupCompile.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingResultInWPF\obj\Debug\net9.0-windows\MainWindow.baml
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingResultInWPF\obj\Debug\net9.0-windows\MainWindow.g.cs
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingResultInWPF\obj\Debug\net9.0-windows\SortingResultInWPF.g.resources
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingResultInWPF\obj\Debug\net9.0-windows\SortingResultInWPF.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingResultInWPF\obj\Debug\net9.0-windows\SortingResultInWPF.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingResultInWPF\obj\Debug\net9.0-windows\SortingResultInWPF.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingResultInWPF\obj\Debug\net9.0-windows\SortingResultInWPF.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingResultInWPF\obj\Debug\net9.0-windows\SortingResultInWPF.sourcelink.json

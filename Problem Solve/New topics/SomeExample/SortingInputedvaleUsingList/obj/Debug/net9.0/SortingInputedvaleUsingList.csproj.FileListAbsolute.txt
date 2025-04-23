@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\bin\Debug\net9.0\SortingInputedvaleUsingList.exe
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\bin\Debug\net9.0\SortingInputedvaleUsingList.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\bin\Debug\net9.0\SortingInputedvaleUsingList.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\bin\Debug\net9.0\SortingInputedvaleUsingList.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\bin\Debug\net9.0\SortingInputedvaleUsingList.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\obj\Debug\net9.0\SortingInputedvaleUsingList.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\obj\Debug\net9.0\SortingInputedvaleUsingList.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\obj\Debug\net9.0\SortingInputedvaleUsingList.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\obj\Debug\net9.0\SortingInputedvaleUsingList.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\obj\Debug\net9.0\SortingInputedvaleUsingList.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\obj\Debug\net9.0\SortingInputedvaleUsingList.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\obj\Debug\net9.0\refint\SortingInputedvaleUsingList.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\obj\Debug\net9.0\SortingInputedvaleUsingList.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\obj\Debug\net9.0\SortingInputedvaleUsingList.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SortingInputedvaleUsingList\obj\Debug\net9.0\ref\SortingInputedvaleUsingList.dll

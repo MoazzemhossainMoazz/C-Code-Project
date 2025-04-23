@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\bin\Debug\net9.0\SomeExample.exe
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\bin\Debug\net9.0\SomeExample.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\bin\Debug\net9.0\SomeExample.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\bin\Debug\net9.0\SomeExample.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\bin\Debug\net9.0\SomeExample.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\obj\Debug\net9.0\SomeExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\obj\Debug\net9.0\SomeExample.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\obj\Debug\net9.0\SomeExample.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\obj\Debug\net9.0\SomeExample.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\obj\Debug\net9.0\SomeExample.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\obj\Debug\net9.0\SomeExample.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\obj\Debug\net9.0\refint\SomeExample.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\obj\Debug\net9.0\SomeExample.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\obj\Debug\net9.0\SomeExample.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SomeExample\obj\Debug\net9.0\ref\SomeExample.dll

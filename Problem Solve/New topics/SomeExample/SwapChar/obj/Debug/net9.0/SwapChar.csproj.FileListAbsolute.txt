@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\bin\Debug\net9.0\SwapChar.exe
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\bin\Debug\net9.0\SwapChar.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\bin\Debug\net9.0\SwapChar.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\bin\Debug\net9.0\SwapChar.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\bin\Debug\net9.0\SwapChar.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\obj\Debug\net9.0\SwapChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\obj\Debug\net9.0\SwapChar.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\obj\Debug\net9.0\SwapChar.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\obj\Debug\net9.0\SwapChar.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\obj\Debug\net9.0\SwapChar.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\obj\Debug\net9.0\SwapChar.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\obj\Debug\net9.0\refint\SwapChar.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\obj\Debug\net9.0\SwapChar.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\obj\Debug\net9.0\SwapChar.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\SomeExample\SwapChar\obj\Debug\net9.0\ref\SwapChar.dll

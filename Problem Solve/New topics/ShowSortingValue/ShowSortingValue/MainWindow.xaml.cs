@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,20 +24,68 @@ namespace ShowSortingValue
         public MainWindow()
         {
             InitializeComponent();
+            
         }
+
+
+        List<int> numbers = new List<int>();
 
         private void btnAddClick(object sender, RoutedEventArgs e)
         {
-            List<int> numbers = new List<int>();
-            string input = tbInput.Text;
-            string[] result = input.Split(new char[] { ' ', ',' }, StringSplitOptions.RemoveEmptyEntries);
+            
+            string input = this.yufgu.Text;
+            string[] result = input.Split(new char[] { ' ', ',', '.','-' }, StringSplitOptions.RemoveEmptyEntries);
             foreach (string s in result)
             {
                 numbers.Add(int.Parse(s));
             }
-            string showInput = string.Join(" ", numbers);
-            tBshowOutPut.Text = showInput;
-            
+
+            string showInput = string.Join(", ", numbers);
+
+            tbInput12.Text = showInput;
+
+            yufgu.Text = null;
+        }
+
+        private void AscnBtn(object sender, RoutedEventArgs e)
+        {
+            for (int i = 0; i < numbers.Count; i++)
+            {
+                for (int j = 0; j < numbers.Count; j++)
+                {
+                    if (numbers[i] < numbers[j])
+                    {
+                        int temp = numbers[j];
+                        numbers[j] = numbers[i];
+                        numbers[i] = temp;
+                    }
+                }
+            }
+            string showInput2 = string.Join(", ", numbers);
+            tBshowOutPut.Text = showInput2;
+        }
+
+        private void DescBtn(object sender, RoutedEventArgs e)
+        {
+            for (int i = 0; i < numbers.Count; i++)
+            {
+                for (int j = 0; j < numbers.Count; j++)
+                {
+                    if (numbers[i] > numbers[j])
+                    {
+                        int temp = numbers[j];
+                        numbers[j] = numbers[i];
+                        numbers[i] = temp;
+                    }
+                }
+            }
+            string showInput3 = string.Join(", ", numbers);
+            tBshowOutPut.Text = showInput3;
+        }
+
+        private void yufgu_TextChanged(object sender, TextChangedEventArgs e)
+        {
+
         }
     }
 }

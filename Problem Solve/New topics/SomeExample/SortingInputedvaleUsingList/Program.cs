@@ -56,6 +56,11 @@ class Program
             List1.Add(input);
         }
 
+        foreach(int num in List1)
+        {
+            Console.WriteLine($"{num}");
+        }
+
         for (int i = 0; i < List1.Count; i++)
         {
             for (int j = 0; j < List1.Count; j++)

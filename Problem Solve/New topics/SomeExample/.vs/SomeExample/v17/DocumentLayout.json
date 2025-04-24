@@ -11,11 +11,11 @@
       "RelativeMoniker": "D:0:0:{0B9E3186-9CC8-4A39-B205-DC50171E9A77}|StringSplit\\StringSplit.csproj|solutionrelative:stringsplit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A29786ED-F7A3-4B9E-8E3D-CE486F978AD4}|ShowShortingValueWPF\\ShowShortingValueWPF.csproj|d:\\technoart\\my work\\for learn\\c#\\problem solve\\new topics\\someexample\\showshortingvaluewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{A29786ED-F7A3-4B9E-8E3D-CE486F978AD4}|ShowShortingValueWPF\\ShowShortingValueWPF.csproj|D:\\TechnoArt\\My Work\\For Learn\\C#\\Problem Solve\\New topics\\SomeExample\\showshortingvaluewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A29786ED-F7A3-4B9E-8E3D-CE486F978AD4}|ShowShortingValueWPF\\ShowShortingValueWPF.csproj|solutionrelative:showshortingvaluewpf\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A29786ED-F7A3-4B9E-8E3D-CE486F978AD4}|ShowShortingValueWPF\\ShowShortingValueWPF.csproj|d:\\technoart\\my work\\for learn\\c#\\problem solve\\new topics\\someexample\\showshortingvaluewpf\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{A29786ED-F7A3-4B9E-8E3D-CE486F978AD4}|ShowShortingValueWPF\\ShowShortingValueWPF.csproj|D:\\TechnoArt\\My Work\\For Learn\\C#\\Problem Solve\\New topics\\SomeExample\\showshortingvaluewpf\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{A29786ED-F7A3-4B9E-8E3D-CE486F978AD4}|ShowShortingValueWPF\\ShowShortingValueWPF.csproj|solutionrelative:showshortingvaluewpf\\mainwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
     }
   ],
@@ -50,8 +50,7 @@
               "RelativeToolTip": "StringSplit\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T07:40:59.014Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T07:40:59.014Z"
             },
             {
               "$type": "Document",
@@ -63,8 +62,7 @@
               "RelativeToolTip": "ShowShortingValueWPF\\MainWindow.xaml.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-23T06:03:09.236Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T06:03:09.236Z"
             },
             {
               "$type": "Document",
@@ -75,8 +73,7 @@
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Problem Solve\\New topics\\SomeExample\\ShowShortingValueWPF\\MainWindow.xaml",
               "RelativeToolTip": "ShowShortingValueWPF\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-23T05:44:19.734Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-23T05:44:19.734Z"
             },
             {
               "$type": "Document",
@@ -86,7 +83,7 @@
               "RelativeDocumentMoniker": "SortingInputedvaleUsingList\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Problem Solve\\New topics\\SomeExample\\SortingInputedvaleUsingList\\Program.cs",
               "RelativeToolTip": "SortingInputedvaleUsingList\\Program.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAAE0AAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAADYAAAAAAAAAAAAAAE0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-20T15:05:17.175Z",
               "EditorCaption": ""

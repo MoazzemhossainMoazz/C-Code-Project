@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SortingInputedvaleUsingList")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d4ce99751e110228c30af2133c168001bbb1e70")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b48975c9e030112e6d4a5f4a812c5392cf5685e0")]
 [assembly: System.Reflection.AssemblyProductAttribute("SortingInputedvaleUsingList")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SortingInputedvaleUsingList")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

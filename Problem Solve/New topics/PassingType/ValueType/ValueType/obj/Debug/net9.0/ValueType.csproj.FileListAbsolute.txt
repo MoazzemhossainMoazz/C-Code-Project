@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\bin\Debug\net9.0\ValueType.exe
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\bin\Debug\net9.0\ValueType.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\bin\Debug\net9.0\ValueType.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\bin\Debug\net9.0\ValueType.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\bin\Debug\net9.0\ValueType.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\obj\Debug\net9.0\ValueType.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\obj\Debug\net9.0\ValueType.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\obj\Debug\net9.0\ValueType.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\obj\Debug\net9.0\ValueType.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\obj\Debug\net9.0\ValueType.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\obj\Debug\net9.0\ValueType.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\obj\Debug\net9.0\refint\ValueType.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\obj\Debug\net9.0\ValueType.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\obj\Debug\net9.0\ValueType.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\PassingType\ValueType\ValueType\obj\Debug\net9.0\ref\ValueType.dll

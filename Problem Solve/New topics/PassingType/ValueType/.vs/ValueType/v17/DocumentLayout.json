@@ -1,0 +1,66 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Problem Solve\\New topics\\PassingType\\ValueType\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3DA183BC-5E52-499C-B460-AF11647F5D9F}|ReferenceType\\ReferenceType.csproj|d:\\technoart\\my work\\for learn\\c#\\problem solve\\new topics\\passingtype\\valuetype\\referencetype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3DA183BC-5E52-499C-B460-AF11647F5D9F}|ReferenceType\\ReferenceType.csproj|solutionrelative:referencetype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C74BB03-48F8-46B2-A19B-539E55B4A1DA}|ValueType\\ValueType.csproj|d:\\technoart\\my work\\for learn\\c#\\problem solve\\new topics\\passingtype\\valuetype\\valuetype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C74BB03-48F8-46B2-A19B-539E55B4A1DA}|ValueType\\ValueType.csproj|solutionrelative:valuetype\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Problem Solve\\New topics\\PassingType\\ValueType\\ReferenceType\\Program.cs",
+              "RelativeDocumentMoniker": "ReferenceType\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Problem Solve\\New topics\\PassingType\\ValueType\\ReferenceType\\Program.cs",
+              "RelativeToolTip": "ReferenceType\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:02:44.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Problem Solve\\New topics\\PassingType\\ValueType\\ValueType\\Program.cs",
+              "RelativeDocumentMoniker": "ValueType\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Problem Solve\\New topics\\PassingType\\ValueType\\ValueType\\Program.cs",
+              "RelativeToolTip": "ValueType\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T09:00:11.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

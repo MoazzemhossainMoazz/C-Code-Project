@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\bin\Debug\net9.0\Recursion.exe
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\bin\Debug\net9.0\Recursion.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\bin\Debug\net9.0\Recursion.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\bin\Debug\net9.0\Recursion.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\bin\Debug\net9.0\Recursion.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\obj\Debug\net9.0\Recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\obj\Debug\net9.0\Recursion.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\obj\Debug\net9.0\Recursion.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\obj\Debug\net9.0\Recursion.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\obj\Debug\net9.0\Recursion.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\obj\Debug\net9.0\Recursion.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\obj\Debug\net9.0\refint\Recursion.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\obj\Debug\net9.0\Recursion.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\obj\Debug\net9.0\Recursion.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Recursion\Recursion\obj\Debug\net9.0\ref\Recursion.dll

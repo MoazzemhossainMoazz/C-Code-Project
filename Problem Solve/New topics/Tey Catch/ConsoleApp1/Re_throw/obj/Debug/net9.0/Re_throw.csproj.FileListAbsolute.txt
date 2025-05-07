@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\bin\Debug\net9.0\Re_throw.exe
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\bin\Debug\net9.0\Re_throw.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\bin\Debug\net9.0\Re_throw.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\bin\Debug\net9.0\Re_throw.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\bin\Debug\net9.0\Re_throw.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\obj\Debug\net9.0\Re_throw.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\obj\Debug\net9.0\Re_throw.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\obj\Debug\net9.0\Re_throw.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\obj\Debug\net9.0\Re_throw.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\obj\Debug\net9.0\Re_throw.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\obj\Debug\net9.0\Re_throw.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\obj\Debug\net9.0\refint\Re_throw.dll
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\obj\Debug\net9.0\Re_throw.pdb
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\obj\Debug\net9.0\Re_throw.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Problem Solve\New topics\Tey Catch\ConsoleApp1\Re_throw\obj\Debug\net9.0\ref\Re_throw.dll

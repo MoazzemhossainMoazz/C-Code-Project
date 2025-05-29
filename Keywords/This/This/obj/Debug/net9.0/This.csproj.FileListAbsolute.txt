@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\obj\Debug\net9.0\This.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\obj\Debug\net9.0\This.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\obj\Debug\net9.0\This.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\obj\Debug\net9.0\This.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\obj\Debug\net9.0\This.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\bin\Debug\net9.0\This.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\bin\Debug\net9.0\This.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\bin\Debug\net9.0\This.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\bin\Debug\net9.0\This.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\bin\Debug\net9.0\This.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\obj\Debug\net9.0\This.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\obj\Debug\net9.0\refint\This.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\obj\Debug\net9.0\This.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\obj\Debug\net9.0\This.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\This\obj\Debug\net9.0\ref\This.dll

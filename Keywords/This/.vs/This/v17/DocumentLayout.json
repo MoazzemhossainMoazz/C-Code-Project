@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00CE6331-4B4D-44FE-A8A1-60A65EA554DA}|Console Menu with Counter\\Console Menu with Counter.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\this\\console menu with counter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00CE6331-4B4D-44FE-A8A1-60A65EA554DA}|Console Menu with Counter\\Console Menu with Counter.csproj|solutionrelative:console menu with counter\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D96C665F-6ACB-4D08-B312-6462152D0B90}|With user input and condition\\With user input and condition.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\this\\with user input and condition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D96C665F-6ACB-4D08-B312-6462152D0B90}|With user input and condition\\With user input and condition.csproj|solutionrelative:with user input and condition\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B221A2E-3824-4185-9662-41E4351C5B71}|for method Channel Chaining\\for method Channel Chaining.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\this\\for method channel chaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B221A2E-3824-4185-9662-41E4351C5B71}|for method Channel Chaining\\for method Channel Chaining.csproj|solutionrelative:for method channel chaining\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D8D0968F-554A-4AE9-854D-A76D00B23849}|Constructor Changing\\Constructor Changing.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\this\\constructor changing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D8D0968F-554A-4AE9-854D-A76D00B23849}|Constructor Changing\\Constructor Changing.csproj|solutionrelative:constructor changing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFF028CA-4B57-4A00-B523-550939F13C93}|This\\This.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\this\\this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF028CA-4B57-4A00-B523-550939F13C93}|This\\This.csproj|solutionrelative:this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\Console Menu with Counter\\Program.cs",
+              "RelativeDocumentMoniker": "Console Menu with Counter\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\Console Menu with Counter\\Program.cs",
+              "RelativeToolTip": "Console Menu with Counter\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T10:20:48.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\With user input and condition\\Program.cs",
+              "RelativeDocumentMoniker": "With user input and condition\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\With user input and condition\\Program.cs",
+              "RelativeToolTip": "With user input and condition\\Program.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAgwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T09:33:55.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\for method Channel Chaining\\Program.cs",
+              "RelativeDocumentMoniker": "for method Channel Chaining\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\for method Channel Chaining\\Program.cs",
+              "RelativeToolTip": "for method Channel Chaining\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAABQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T08:19:14.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\Constructor Changing\\Program.cs",
+              "RelativeDocumentMoniker": "Constructor Changing\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\Constructor Changing\\Program.cs",
+              "RelativeToolTip": "Constructor Changing\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:46:12.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\This\\Program.cs",
+              "RelativeDocumentMoniker": "This\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\This\\Program.cs",
+              "RelativeToolTip": "This\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T06:15:14.979Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

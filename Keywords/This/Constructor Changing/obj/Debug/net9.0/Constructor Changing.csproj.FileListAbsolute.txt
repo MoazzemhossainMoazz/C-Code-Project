@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\bin\Debug\net9.0\Constructor Changing.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\bin\Debug\net9.0\Constructor Changing.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\bin\Debug\net9.0\Constructor Changing.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\bin\Debug\net9.0\Constructor Changing.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\bin\Debug\net9.0\Constructor Changing.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\obj\Debug\net9.0\Constructor Changing.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\obj\Debug\net9.0\Constructor Changing.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\obj\Debug\net9.0\Constructor Changing.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\obj\Debug\net9.0\Constructor Changing.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\obj\Debug\net9.0\Constructor Changing.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\obj\Debug\net9.0\Constructor Changing.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\obj\Debug\net9.0\refint\Constructor Changing.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\obj\Debug\net9.0\Constructor Changing.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\obj\Debug\net9.0\Constructor Changing.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Constructor Changing\obj\Debug\net9.0\ref\Constructor Changing.dll

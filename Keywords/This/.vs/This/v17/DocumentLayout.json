@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "Console Menu with Counter\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\Console Menu with Counter\\Program.cs",
               "RelativeToolTip": "Console Menu with Counter\\Program.cs",
-              "ViewState": "AgIAACMAAAAAAAAAAAAUwCoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T10:20:48.728Z",
               "EditorCaption": ""
@@ -65,7 +65,7 @@
               "RelativeDocumentMoniker": "With user input and condition\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\With user input and condition\\Program.cs",
               "RelativeToolTip": "With user input and condition\\Program.cs",
-              "ViewState": "AgIAAFcAAAAAAAAAAAAgwGQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAiwD8AAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T09:33:55.477Z",
               "EditorCaption": ""
@@ -93,8 +93,7 @@
               "RelativeToolTip": "Constructor Changing\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAowAUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T06:46:12.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T06:46:12.196Z"
             },
             {
               "$type": "Document",
@@ -106,8 +105,7 @@
               "RelativeToolTip": "This\\Program.cs",
               "ViewState": "AgIAAAoAAAAAAAAAAAAQwBEAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T06:15:14.979Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T06:15:14.979Z"
             }
           ]
         }

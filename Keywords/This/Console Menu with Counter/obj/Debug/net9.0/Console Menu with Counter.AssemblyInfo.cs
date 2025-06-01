@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Console Menu with Counter")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+99cb6d31570202a0aee8081fb69208e1127be926")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e6ba4650b3d77c699d8630a1787a8886528db6a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Console Menu with Counter")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Console Menu with Counter")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

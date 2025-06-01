@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\bin\Debug\net9.0\Console Menu with Counter.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\bin\Debug\net9.0\Console Menu with Counter.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\bin\Debug\net9.0\Console Menu with Counter.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\bin\Debug\net9.0\Console Menu with Counter.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\bin\Debug\net9.0\Console Menu with Counter.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\obj\Debug\net9.0\Console Menu with Counter.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\obj\Debug\net9.0\Console Menu with Counter.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\obj\Debug\net9.0\Console Menu with Counter.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\obj\Debug\net9.0\Console Menu with Counter.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\obj\Debug\net9.0\Console Menu with Counter.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\obj\Debug\net9.0\Console Menu with Counter.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\obj\Debug\net9.0\refint\Console Menu with Counter.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\obj\Debug\net9.0\Console Menu with Counter.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\obj\Debug\net9.0\Console Menu with Counter.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Console Menu with Counter\obj\Debug\net9.0\ref\Console Menu with Counter.dll

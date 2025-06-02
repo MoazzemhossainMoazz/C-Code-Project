@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\bin\Debug\net9.0\Counter Save.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\bin\Debug\net9.0\Counter Save.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\bin\Debug\net9.0\Counter Save.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\bin\Debug\net9.0\Counter Save.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\bin\Debug\net9.0\Counter Save.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\obj\Debug\net9.0\Counter Save.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\obj\Debug\net9.0\Counter Save.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\obj\Debug\net9.0\Counter Save.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\obj\Debug\net9.0\Counter Save.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\obj\Debug\net9.0\Counter Save.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\obj\Debug\net9.0\Counter Save.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\obj\Debug\net9.0\refint\Counter Save.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\obj\Debug\net9.0\Counter Save.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\obj\Debug\net9.0\Counter Save.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Counter Save\obj\Debug\net9.0\ref\Counter Save.dll

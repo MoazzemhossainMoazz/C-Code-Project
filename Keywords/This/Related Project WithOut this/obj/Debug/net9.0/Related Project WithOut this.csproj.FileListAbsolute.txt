@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\bin\Debug\net9.0\Related Project WithOut this.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\bin\Debug\net9.0\Related Project WithOut this.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\bin\Debug\net9.0\Related Project WithOut this.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\bin\Debug\net9.0\Related Project WithOut this.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\bin\Debug\net9.0\Related Project WithOut this.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\obj\Debug\net9.0\Related Project WithOut this.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\obj\Debug\net9.0\Related Project WithOut this.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\obj\Debug\net9.0\Related Project WithOut this.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\obj\Debug\net9.0\Related Project WithOut this.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\obj\Debug\net9.0\Related Project WithOut this.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\obj\Debug\net9.0\Related Project WithOut this.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\obj\Debug\net9.0\refint\Related Project WithOut this.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\obj\Debug\net9.0\Related Project WithOut this.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\obj\Debug\net9.0\Related Project WithOut this.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\This\Related Project WithOut this\obj\Debug\net9.0\ref\Related Project WithOut this.dll

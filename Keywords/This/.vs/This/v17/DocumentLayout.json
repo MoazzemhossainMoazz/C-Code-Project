@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{0363B16F-4FD4-43B0-B070-2979D240F94B}|Related Project WithOut this\\Related Project WithOut this.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\this\\related project without this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0363B16F-4FD4-43B0-B070-2979D240F94B}|Related Project WithOut this\\Related Project WithOut this.csproj|solutionrelative:related project without this\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B0F814A4-B99F-468A-8605-5395882D53B9}|Counter Save\\Counter Save.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\this\\counter save\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0F814A4-B99F-468A-8605-5395882D53B9}|Counter Save\\Counter Save.csproj|solutionrelative:counter save\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -52,18 +56,31 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\Related Project WithOut this\\Program.cs",
+              "RelativeDocumentMoniker": "Related Project WithOut this\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\Related Project WithOut this\\Program.cs",
+              "RelativeToolTip": "Related Project WithOut this\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T09:37:58.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\Counter Save\\Program.cs",
               "RelativeDocumentMoniker": "Counter Save\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\Counter Save\\Program.cs",
               "RelativeToolTip": "Counter Save\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAACwAAAAAAAAAAAAqwBoAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T05:49:17.755Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\Console Menu with Counter\\Program.cs",
               "RelativeDocumentMoniker": "Console Menu with Counter\\Program.cs",
@@ -71,12 +88,11 @@
               "RelativeToolTip": "Console Menu with Counter\\Program.cs",
               "ViewState": "AgIAADUAAAAAAAAAAAAgwF0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-29T10:20:48.728Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-29T10:20:48.728Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\With user input and condition\\Program.cs",
               "RelativeDocumentMoniker": "With user input and condition\\Program.cs",
@@ -88,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\for method Channel Chaining\\Program.cs",
               "RelativeDocumentMoniker": "for method Channel Chaining\\Program.cs",
@@ -100,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\Constructor Changing\\Program.cs",
               "RelativeDocumentMoniker": "Constructor Changing\\Program.cs",
@@ -112,7 +128,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\This\\This\\Program.cs",
               "RelativeDocumentMoniker": "This\\Program.cs",

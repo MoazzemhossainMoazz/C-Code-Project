@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\bin\Debug\net9.0\Static field.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\bin\Debug\net9.0\Static field.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\bin\Debug\net9.0\Static field.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\bin\Debug\net9.0\Static field.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\bin\Debug\net9.0\Static field.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\obj\Debug\net9.0\Static field.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\obj\Debug\net9.0\Static field.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\obj\Debug\net9.0\Static field.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\obj\Debug\net9.0\Static field.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\obj\Debug\net9.0\Static field.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\obj\Debug\net9.0\Static field.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\obj\Debug\net9.0\refint\Static field.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\obj\Debug\net9.0\Static field.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\obj\Debug\net9.0\Static field.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static field\obj\Debug\net9.0\ref\Static field.dll

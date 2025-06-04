@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\bin\Debug\net9.0\Static constructor.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\bin\Debug\net9.0\Static constructor.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\bin\Debug\net9.0\Static constructor.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\bin\Debug\net9.0\Static constructor.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\bin\Debug\net9.0\Static constructor.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\obj\Debug\net9.0\Static constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\obj\Debug\net9.0\Static constructor.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\obj\Debug\net9.0\Static constructor.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\obj\Debug\net9.0\Static constructor.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\obj\Debug\net9.0\Static constructor.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\obj\Debug\net9.0\Static constructor.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\obj\Debug\net9.0\refint\Static constructor.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\obj\Debug\net9.0\Static constructor.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\obj\Debug\net9.0\Static constructor.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Static Variable\Static constructor\obj\Debug\net9.0\ref\Static constructor.dll

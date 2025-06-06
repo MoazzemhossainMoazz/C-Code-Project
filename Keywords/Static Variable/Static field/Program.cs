@@ -5,14 +5,16 @@
     static AppConfig()
     {
         Version = "1.0.0";
-        Console.WriteLine("AppConfig intialized");
+        Console.WriteLine("AppConfig intialized: " + Version);
     }
+
+    
 }
 
 class Program
 {
     static void Main()
     {
-        Console.WriteLine("App version: " + AppConfig.Version);
+            Console.WriteLine("App version: " + AppConfig.Version);
     }
 }

@@ -6,6 +6,7 @@
     {
         Version = "1.0.0";
         Console.WriteLine("AppConfig intialized: " + Version);
+
     }
 
     

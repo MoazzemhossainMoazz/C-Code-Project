@@ -8,6 +8,10 @@
     {
         return a * b;
     }
+    public static int Sub(int a, int b)
+    {
+        return a - b;
+    }
 }
 
 public class Program
@@ -16,5 +20,6 @@ public class Program
     {
         Console.WriteLine(MathHelper.Add(3, 4));
         Console.WriteLine(MathHelper.Multiply(3, 4));
+        Console.WriteLine(MathHelper.Sub(7, 4));
     }
 }

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Static Variable\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D5ADDC25-D637-4BCE-86CF-447367EC0B75}|Static field\\Static field.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\static variable\\static field\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D5ADDC25-D637-4BCE-86CF-447367EC0B75}|Static field\\Static field.csproj|solutionrelative:static field\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{17CA788D-6936-4C49-8584-09733879B90B}|MathHelper\\MathHelper.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\static variable\\mathhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17CA788D-6936-4C49-8584-09733879B90B}|MathHelper\\MathHelper.csproj|solutionrelative:mathhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8DA260DD-F8E8-4B28-BEC7-6D812E069817}|Static constructor\\Static constructor.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\static variable\\static constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8DA260DD-F8E8-4B28-BEC7-6D812E069817}|Static constructor\\Static constructor.csproj|solutionrelative:static constructor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17CA788D-6936-4C49-8584-09733879B90B}|MathHelper\\MathHelper.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\static variable\\mathhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17CA788D-6936-4C49-8584-09733879B90B}|MathHelper\\MathHelper.csproj|solutionrelative:mathhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D5ADDC25-D637-4BCE-86CF-447367EC0B75}|Static field\\Static field.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\static variable\\static field\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D5ADDC25-D637-4BCE-86CF-447367EC0B75}|Static field\\Static field.csproj|solutionrelative:static field\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{70B57521-A582-4E85-BCDD-57F40BB2A17A}|Static Method\\Static Method.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\static variable\\static method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,13 +46,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Static Variable\\Static field\\Program.cs",
               "RelativeDocumentMoniker": "Static field\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Static Variable\\Static field\\Program.cs",
               "RelativeToolTip": "Static field\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T10:21:31.499Z",
               "EditorCaption": ""
@@ -67,19 +67,21 @@
               "RelativeToolTip": "Static constructor\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T10:11:07.296Z"
+              "WhenOpened": "2025-06-04T10:11:07.296Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Static Variable\\MathHelper\\Program.cs",
               "RelativeDocumentMoniker": "MathHelper\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Static Variable\\MathHelper\\Program.cs",
               "RelativeToolTip": "MathHelper\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAgwAkAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T15:36:33.512Z"
+              "WhenOpened": "2025-06-02T15:36:33.512Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -89,9 +91,10 @@
               "RelativeDocumentMoniker": "Static Method\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Static Variable\\Static Method\\Program.cs",
               "RelativeToolTip": "Static Method\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-02T15:21:41.853Z"
+              "WhenOpened": "2025-06-02T15:21:41.853Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

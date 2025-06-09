@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\bin\Debug\net9.0\VirtualProperty.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\bin\Debug\net9.0\VirtualProperty.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\bin\Debug\net9.0\VirtualProperty.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\bin\Debug\net9.0\VirtualProperty.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\bin\Debug\net9.0\VirtualProperty.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\obj\Debug\net9.0\VirtualProperty.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\obj\Debug\net9.0\VirtualProperty.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\obj\Debug\net9.0\VirtualProperty.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\obj\Debug\net9.0\VirtualProperty.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\obj\Debug\net9.0\VirtualProperty.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\obj\Debug\net9.0\VirtualProperty.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\obj\Debug\net9.0\refint\VirtualProperty.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\obj\Debug\net9.0\VirtualProperty.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\obj\Debug\net9.0\VirtualProperty.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\VirtualProperty\obj\Debug\net9.0\ref\VirtualProperty.dll

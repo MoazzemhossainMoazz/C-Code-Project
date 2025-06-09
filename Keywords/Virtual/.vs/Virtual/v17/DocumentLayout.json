@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Virtual\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2DACCEF-58D9-4276-BA96-0C783009EA60}|VirtualProperty\\VirtualProperty.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\virtual\\virtualproperty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2DACCEF-58D9-4276-BA96-0C783009EA60}|VirtualProperty\\VirtualProperty.csproj|solutionrelative:virtualproperty\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EB607B60-CD83-4DBC-BE97-0FF9676A8E8C}|Virtual\\Virtual.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\virtual\\virtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB607B60-CD83-4DBC-BE97-0FF9676A8E8C}|Virtual\\Virtual.csproj|solutionrelative:virtual\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -32,11 +36,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Virtual\\VirtualProperty\\Program.cs",
+              "RelativeDocumentMoniker": "VirtualProperty\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Virtual\\VirtualProperty\\Program.cs",
+              "RelativeToolTip": "VirtualProperty\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-09T17:27:53.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Virtual\\Virtual\\Program.cs",
               "RelativeDocumentMoniker": "Virtual\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Virtual\\Virtual\\Program.cs",
               "RelativeToolTip": "Virtual\\Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBgAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwBgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-09T16:55:20.629Z",
               "EditorCaption": ""

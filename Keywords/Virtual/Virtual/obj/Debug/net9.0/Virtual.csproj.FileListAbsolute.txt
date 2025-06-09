@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\obj\Debug\net9.0\Virtual.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\obj\Debug\net9.0\Virtual.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\obj\Debug\net9.0\Virtual.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\obj\Debug\net9.0\Virtual.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\obj\Debug\net9.0\Virtual.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\bin\Debug\net9.0\Virtual.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\bin\Debug\net9.0\Virtual.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\bin\Debug\net9.0\Virtual.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\bin\Debug\net9.0\Virtual.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\bin\Debug\net9.0\Virtual.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\obj\Debug\net9.0\Virtual.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\obj\Debug\net9.0\refint\Virtual.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\obj\Debug\net9.0\Virtual.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\obj\Debug\net9.0\Virtual.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Virtual\Virtual\obj\Debug\net9.0\ref\Virtual.dll

@@ -1,0 +1,49 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Override\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25F60565-A236-46F8-B489-BBF619D41AE5}|Override\\Override.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\override\\override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25F60565-A236-46F8-B489-BBF619D41AE5}|Override\\Override.csproj|solutionrelative:override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Override\\Override\\Program.cs",
+              "RelativeDocumentMoniker": "Override\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Override\\Override\\Program.cs",
+              "RelativeToolTip": "Override\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T06:48:42.623Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

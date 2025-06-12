@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Override")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f0531c113590781012d82d946faedb66d69c9135")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7a3ef1106e9a251892f873c121fcb735ee280d25")]
 [assembly: System.Reflection.AssemblyProductAttribute("Override")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Override")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,6 +8,11 @@ public class Student : Person
     public override string Role => "Student";
 }
 
+public class Teacher : Student
+{
+    public override string Role { get; set; } = "Student";
+}
+
 class Program
 {
     public static void Main()
@@ -17,5 +22,8 @@ class Program
 
         Student s = new Student();
         Console.WriteLine(s.Role);
+
+        Teacher t = new Teacher();
+        Console.WriteLine(t.Role);
     }
 }

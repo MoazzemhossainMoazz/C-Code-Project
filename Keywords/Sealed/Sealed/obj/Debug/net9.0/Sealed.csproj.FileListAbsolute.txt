@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\bin\Debug\net9.0\Sealed.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\bin\Debug\net9.0\Sealed.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\bin\Debug\net9.0\Sealed.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\bin\Debug\net9.0\Sealed.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\bin\Debug\net9.0\Sealed.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\obj\Debug\net9.0\Sealed.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\obj\Debug\net9.0\Sealed.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\obj\Debug\net9.0\Sealed.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\obj\Debug\net9.0\Sealed.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\obj\Debug\net9.0\Sealed.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\obj\Debug\net9.0\Sealed.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\obj\Debug\net9.0\refint\Sealed.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\obj\Debug\net9.0\Sealed.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\obj\Debug\net9.0\Sealed.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Sealed\Sealed\obj\Debug\net9.0\ref\Sealed.dll

@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Override\\",
+  "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Sealed\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25F60565-A236-46F8-B489-BBF619D41AE5}|Override\\Override.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\override\\override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25F60565-A236-46F8-B489-BBF619D41AE5}|Override\\Override.csproj|solutionrelative:override\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{87130CE1-8F92-433F-80DD-BD54FBE95A1D}|Sealed\\Sealed.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\sealed\\sealed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{87130CE1-8F92-433F-80DD-BD54FBE95A1D}|Sealed\\Sealed.csproj|solutionrelative:sealed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,13 +32,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Override\\Override\\Program.cs",
-              "RelativeDocumentMoniker": "Override\\Program.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Override\\Override\\Program.cs",
-              "RelativeToolTip": "Override\\Program.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBMAAAAgAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Sealed\\Sealed\\Program.cs",
+              "RelativeDocumentMoniker": "Sealed\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Sealed\\Sealed\\Program.cs*",
+              "RelativeToolTip": "Sealed\\Program.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwBUAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-11T06:48:42.623Z",
+              "WhenOpened": "2025-06-13T17:49:46.33Z",
               "EditorCaption": ""
             }
           ]

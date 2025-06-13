@@ -10,7 +10,7 @@ public class Student : Person
 
 public class Teacher : Student
 {
-    public override string Role { get; set; } = "Student";
+    public override string Role { get; } = "Teacher";
 }
 
 class Program

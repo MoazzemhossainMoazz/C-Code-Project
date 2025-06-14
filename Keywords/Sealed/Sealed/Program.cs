@@ -22,6 +22,23 @@ public class Dog : Animal
 //    }
 //}
 
+public sealed class Cat : Animal
+{
+    public override void Speak()
+    {
+        Console.WriteLine("Cat Mew Mew");
+    }
+}
+
+//public sealed class Rabbit : Cat
+//{
+//    public override void Speak()
+//    {
+//        Console.WriteLine("Cat Mew Mew");
+//    }
+//}
+
+
 
 class Program
 {

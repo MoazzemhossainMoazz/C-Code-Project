@@ -5,6 +5,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{87130CE1-8F92-433F-80DD-BD54FBE95A1D}|Sealed\\Sealed.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\sealed\\sealed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{87130CE1-8F92-433F-80DD-BD54FBE95A1D}|Sealed\\Sealed.csproj|solutionrelative:sealed\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C8CFBF3F-30E0-45AA-88B9-15DDD38C7B04}|Proj Simple Login System\\Proj Simple Login System.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\sealed\\proj simple login system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C8CFBF3F-30E0-45AA-88B9-15DDD38C7B04}|Proj Simple Login System\\Proj Simple Login System.csproj|solutionrelative:proj simple login system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -30,13 +34,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Sealed\\Proj Simple Login System\\Program.cs",
+              "RelativeDocumentMoniker": "Proj Simple Login System\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Sealed\\Proj Simple Login System\\Program.cs",
+              "RelativeToolTip": "Proj Simple Login System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-15T05:15:14.638Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Sealed\\Sealed\\Program.cs",
               "RelativeDocumentMoniker": "Sealed\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Sealed\\Sealed\\Program.cs",
               "RelativeToolTip": "Sealed\\Program.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAQwCYAAAADAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-13T17:49:46.33Z",
               "EditorCaption": ""

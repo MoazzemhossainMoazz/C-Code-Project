@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\obj\Debug\net9.0\NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\obj\Debug\net9.0\NameSpace.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\obj\Debug\net9.0\NameSpace.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\obj\Debug\net9.0\NameSpace.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\obj\Debug\net9.0\NameSpace.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\bin\Debug\net9.0\NameSpace.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\bin\Debug\net9.0\NameSpace.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\bin\Debug\net9.0\NameSpace.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\bin\Debug\net9.0\NameSpace.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\bin\Debug\net9.0\NameSpace.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\obj\Debug\net9.0\NameSpace.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\obj\Debug\net9.0\refint\NameSpace.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\obj\Debug\net9.0\NameSpace.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\obj\Debug\net9.0\NameSpace.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\NameSpace\NameSpace\obj\Debug\net9.0\ref\NameSpace.dll

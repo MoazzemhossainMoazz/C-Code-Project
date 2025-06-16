@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\bin\Debug\net9.0\Abstract.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\bin\Debug\net9.0\Abstract.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\bin\Debug\net9.0\Abstract.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\bin\Debug\net9.0\Abstract.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\bin\Debug\net9.0\Abstract.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\obj\Debug\net9.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\obj\Debug\net9.0\Abstract.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\obj\Debug\net9.0\Abstract.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\obj\Debug\net9.0\Abstract.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\obj\Debug\net9.0\Abstract.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\obj\Debug\net9.0\Abstract.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\obj\Debug\net9.0\refint\Abstract.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\obj\Debug\net9.0\Abstract.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\obj\Debug\net9.0\Abstract.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract\obj\Debug\net9.0\ref\Abstract.dll

@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\bin\Debug\net9.0\Abstract Class and Method.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\bin\Debug\net9.0\Abstract Class and Method.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\bin\Debug\net9.0\Abstract Class and Method.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\bin\Debug\net9.0\Abstract Class and Method.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\bin\Debug\net9.0\Abstract Class and Method.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\obj\Debug\net9.0\Abstract Class and Method.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\obj\Debug\net9.0\Abstract Class and Method.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\obj\Debug\net9.0\Abstract Class and Method.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\obj\Debug\net9.0\Abstract Class and Method.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\obj\Debug\net9.0\Abstract Class and Method.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\obj\Debug\net9.0\Abstract Class and Method.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\obj\Debug\net9.0\refint\Abstract Class and Method.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\obj\Debug\net9.0\Abstract Class and Method.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\obj\Debug\net9.0\Abstract Class and Method.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract Class and Method\obj\Debug\net9.0\ref\Abstract Class and Method.dll

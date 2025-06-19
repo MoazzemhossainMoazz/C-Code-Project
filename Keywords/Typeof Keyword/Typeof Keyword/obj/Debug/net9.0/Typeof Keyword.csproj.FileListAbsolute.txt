@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\bin\Debug\net9.0\Typeof Keyword.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\bin\Debug\net9.0\Typeof Keyword.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\bin\Debug\net9.0\Typeof Keyword.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\bin\Debug\net9.0\Typeof Keyword.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\bin\Debug\net9.0\Typeof Keyword.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\obj\Debug\net9.0\Typeof Keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\obj\Debug\net9.0\Typeof Keyword.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\obj\Debug\net9.0\Typeof Keyword.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\obj\Debug\net9.0\Typeof Keyword.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\obj\Debug\net9.0\Typeof Keyword.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\obj\Debug\net9.0\Typeof Keyword.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\obj\Debug\net9.0\refint\Typeof Keyword.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\obj\Debug\net9.0\Typeof Keyword.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\obj\Debug\net9.0\Typeof Keyword.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Typeof Keyword\Typeof Keyword\obj\Debug\net9.0\ref\Typeof Keyword.dll

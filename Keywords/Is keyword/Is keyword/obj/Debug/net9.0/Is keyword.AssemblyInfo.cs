@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Is keyword")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b5eeb4a3baab95d166d183c4d1265beba9a4f4d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6b72abba2f7fcd1a3d7bbb10eb46089de639334f")]
 [assembly: System.Reflection.AssemblyProductAttribute("Is keyword")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Is keyword")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

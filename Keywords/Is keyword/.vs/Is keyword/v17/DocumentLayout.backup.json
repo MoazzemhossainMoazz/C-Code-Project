@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Is keyword\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{47D8411A-31AD-46BC-AF4B-97BF6E1F997E}|Method using _is_ keyword\\Method using _is_ keyword.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\is keyword\\method using _is_ keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D8411A-31AD-46BC-AF4B-97BF6E1F997E}|Method using _is_ keyword\\Method using _is_ keyword.csproj|solutionrelative:method using _is_ keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F69584B9-C06E-429D-8365-A9A71BB1AF49}|Is null Handling\\Is null Handling.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\is keyword\\is null handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F69584B9-C06E-429D-8365-A9A71BB1AF49}|Is null Handling\\Is null Handling.csproj|solutionrelative:is null handling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DD2269BA-252E-4C87-B886-79789A870664}|Is keyword\\Is keyword.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\is keyword\\is keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DD2269BA-252E-4C87-B886-79789A870664}|Is keyword\\Is keyword.csproj|solutionrelative:is keyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4DBB483B-3157-4CC9-A082-7F1255F0A259}|Custom Class Pattern Matching\\Custom Class Pattern Matching.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\is keyword\\custom class pattern matching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4DBB483B-3157-4CC9-A082-7F1255F0A259}|Custom Class Pattern Matching\\Custom Class Pattern Matching.csproj|solutionrelative:custom class pattern matching\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,11 +44,50 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Is keyword\\Method using _is_ keyword\\Program.cs",
+              "RelativeDocumentMoniker": "Method using _is_ keyword\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Is keyword\\Method using _is_ keyword\\Program.cs*",
+              "RelativeToolTip": "Method using _is_ keyword\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:22:39.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Is keyword\\Is null Handling\\Program.cs",
+              "RelativeDocumentMoniker": "Is null Handling\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Is keyword\\Is null Handling\\Program.cs",
+              "RelativeToolTip": "Is null Handling\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA0AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:15:02.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Is keyword\\Custom Class Pattern Matching\\Program.cs",
+              "RelativeDocumentMoniker": "Custom Class Pattern Matching\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Is keyword\\Custom Class Pattern Matching\\Program.cs",
+              "RelativeToolTip": "Custom Class Pattern Matching\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T18:06:31.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Is keyword\\Is keyword\\Program.cs",
               "RelativeDocumentMoniker": "Is keyword\\Program.cs",
-              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Is keyword\\Is keyword\\Program.cs*",
-              "RelativeToolTip": "Is keyword\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAAZAAAAAAAAAA==",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Is keyword\\Is keyword\\Program.cs",
+              "RelativeToolTip": "Is keyword\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowA0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-20T17:51:10.215Z",
               "EditorCaption": ""

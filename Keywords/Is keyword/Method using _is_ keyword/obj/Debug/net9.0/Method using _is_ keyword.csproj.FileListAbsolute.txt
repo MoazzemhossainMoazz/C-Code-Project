@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\bin\Debug\net9.0\Method using _is_ keyword.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\bin\Debug\net9.0\Method using _is_ keyword.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\bin\Debug\net9.0\Method using _is_ keyword.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\bin\Debug\net9.0\Method using _is_ keyword.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\bin\Debug\net9.0\Method using _is_ keyword.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\obj\Debug\net9.0\Method using _is_ keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\obj\Debug\net9.0\Method using _is_ keyword.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\obj\Debug\net9.0\Method using _is_ keyword.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\obj\Debug\net9.0\Method using _is_ keyword.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\obj\Debug\net9.0\Method using _is_ keyword.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\obj\Debug\net9.0\Method using _is_ keyword.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\obj\Debug\net9.0\refint\Method using _is_ keyword.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\obj\Debug\net9.0\Method using _is_ keyword.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\obj\Debug\net9.0\Method using _is_ keyword.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Method using _is_ keyword\obj\Debug\net9.0\ref\Method using _is_ keyword.dll

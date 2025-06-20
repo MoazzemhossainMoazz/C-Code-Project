@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\bin\Debug\net9.0\Custom Class Pattern Matching.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\bin\Debug\net9.0\Custom Class Pattern Matching.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\bin\Debug\net9.0\Custom Class Pattern Matching.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\bin\Debug\net9.0\Custom Class Pattern Matching.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\bin\Debug\net9.0\Custom Class Pattern Matching.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\obj\Debug\net9.0\Custom Class Pattern Matching.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\obj\Debug\net9.0\Custom Class Pattern Matching.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\obj\Debug\net9.0\Custom Class Pattern Matching.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\obj\Debug\net9.0\Custom Class Pattern Matching.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\obj\Debug\net9.0\Custom Class Pattern Matching.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\obj\Debug\net9.0\Custom Class Pattern Matching.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\obj\Debug\net9.0\refint\Custom Class Pattern Matching.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\obj\Debug\net9.0\Custom Class Pattern Matching.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\obj\Debug\net9.0\Custom Class Pattern Matching.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Custom Class Pattern Matching\obj\Debug\net9.0\ref\Custom Class Pattern Matching.dll

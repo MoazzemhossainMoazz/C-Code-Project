@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\bin\Debug\net9.0\Is keyword.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\bin\Debug\net9.0\Is keyword.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\bin\Debug\net9.0\Is keyword.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\bin\Debug\net9.0\Is keyword.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\bin\Debug\net9.0\Is keyword.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\obj\Debug\net9.0\Is keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\obj\Debug\net9.0\Is keyword.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\obj\Debug\net9.0\Is keyword.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\obj\Debug\net9.0\Is keyword.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\obj\Debug\net9.0\Is keyword.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\obj\Debug\net9.0\Is keyword.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\obj\Debug\net9.0\refint\Is keyword.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\obj\Debug\net9.0\Is keyword.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\obj\Debug\net9.0\Is keyword.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Is keyword\Is keyword\obj\Debug\net9.0\ref\Is keyword.dll

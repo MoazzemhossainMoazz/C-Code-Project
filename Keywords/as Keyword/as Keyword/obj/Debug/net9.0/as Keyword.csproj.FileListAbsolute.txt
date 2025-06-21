@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\bin\Debug\net9.0\as Keyword.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\bin\Debug\net9.0\as Keyword.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\bin\Debug\net9.0\as Keyword.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\bin\Debug\net9.0\as Keyword.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\bin\Debug\net9.0\as Keyword.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\obj\Debug\net9.0\as Keyword.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\obj\Debug\net9.0\as Keyword.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\obj\Debug\net9.0\as Keyword.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\obj\Debug\net9.0\as Keyword.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\obj\Debug\net9.0\as Keyword.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\obj\Debug\net9.0\as Keyword.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\obj\Debug\net9.0\refint\as Keyword.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\obj\Debug\net9.0\as Keyword.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\obj\Debug\net9.0\as Keyword.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\as Keyword\as Keyword\obj\Debug\net9.0\ref\as Keyword.dll

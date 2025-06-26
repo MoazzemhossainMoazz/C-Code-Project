@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Abstract\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5921C1CD-27B0-4F79-8F3D-B8F482089A8C}|Abstract Class and Method\\Abstract Class and Method.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\abstract\\abstract class and method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5921C1CD-27B0-4F79-8F3D-B8F482089A8C}|Abstract Class and Method\\Abstract Class and Method.csproj|solutionrelative:abstract class and method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED23B599-3A7F-410F-B93D-41E1BA0153DD}|Abstract and Polymorphism\\Abstract and Polymorphism.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\abstract\\abstract and polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED23B599-3A7F-410F-B93D-41E1BA0153DD}|Abstract and Polymorphism\\Abstract and Polymorphism.csproj|solutionrelative:abstract and polymorphism\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AFE583C4-A4DE-4BAA-AA32-FA316F431628}|Abstract\\Abstract.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\abstract\\abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AFE583C4-A4DE-4BAA-AA32-FA316F431628}|Abstract\\Abstract.csproj|solutionrelative:abstract\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5921C1CD-27B0-4F79-8F3D-B8F482089A8C}|Abstract Class and Method\\Abstract Class and Method.csproj|d:\\technoart\\my work\\for learn\\c#\\keywords\\abstract\\abstract class and method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5921C1CD-27B0-4F79-8F3D-B8F482089A8C}|Abstract Class and Method\\Abstract Class and Method.csproj|solutionrelative:abstract class and method\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -36,11 +40,24 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
+              "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Abstract\\Abstract and Polymorphism\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract and Polymorphism\\Program.cs",
+              "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Abstract\\Abstract and Polymorphism\\Program.cs",
+              "RelativeToolTip": "Abstract and Polymorphism\\Program.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAAAEIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T11:11:39.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
               "DocumentMoniker": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Abstract\\Abstract Class and Method\\Program.cs",
               "RelativeDocumentMoniker": "Abstract Class and Method\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Abstract\\Abstract Class and Method\\Program.cs",
               "RelativeToolTip": "Abstract Class and Method\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T10:50:48.442Z",
               "EditorCaption": ""
@@ -53,7 +70,7 @@
               "RelativeDocumentMoniker": "Abstract\\Program.cs",
               "ToolTip": "D:\\TechnoArt\\My Work\\For Learn\\C#\\Keywords\\Abstract\\Abstract\\Program.cs",
               "RelativeToolTip": "Abstract\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAASAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-15T10:30:30.336Z",
               "EditorCaption": ""

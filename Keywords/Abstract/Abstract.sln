@@ -1,11 +1,13 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract", "Abstract\Abstract.csproj", "{AFE583C4-A4DE-4BAA-AA32-FA316F431628}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Class and Method", "Abstract Class and Method\Abstract Class and Method.csproj", "{5921C1CD-27B0-4F79-8F3D-B8F482089A8C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract and Polymorphism", "Abstract and Polymorphism\Abstract and Polymorphism.csproj", "{ED23B599-3A7F-410F-B93D-41E1BA0153DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{5921C1CD-27B0-4F79-8F3D-B8F482089A8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5921C1CD-27B0-4F79-8F3D-B8F482089A8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5921C1CD-27B0-4F79-8F3D-B8F482089A8C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ED23B599-3A7F-410F-B93D-41E1BA0153DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ED23B599-3A7F-410F-B93D-41E1BA0153DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ED23B599-3A7F-410F-B93D-41E1BA0153DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ED23B599-3A7F-410F-B93D-41E1BA0153DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

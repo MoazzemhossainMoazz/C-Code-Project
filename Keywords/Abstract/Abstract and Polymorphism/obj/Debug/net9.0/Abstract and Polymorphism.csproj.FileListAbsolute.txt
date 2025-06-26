@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\bin\Debug\net9.0\Abstract and Polymorphism.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\bin\Debug\net9.0\Abstract and Polymorphism.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\bin\Debug\net9.0\Abstract and Polymorphism.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\bin\Debug\net9.0\Abstract and Polymorphism.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\bin\Debug\net9.0\Abstract and Polymorphism.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\obj\Debug\net9.0\Abstract and Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\obj\Debug\net9.0\Abstract and Polymorphism.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\obj\Debug\net9.0\Abstract and Polymorphism.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\obj\Debug\net9.0\Abstract and Polymorphism.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\obj\Debug\net9.0\Abstract and Polymorphism.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\obj\Debug\net9.0\Abstract and Polymorphism.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\obj\Debug\net9.0\refint\Abstract and Polymorphism.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\obj\Debug\net9.0\Abstract and Polymorphism.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\obj\Debug\net9.0\Abstract and Polymorphism.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Abstract and Polymorphism\obj\Debug\net9.0\ref\Abstract and Polymorphism.dll

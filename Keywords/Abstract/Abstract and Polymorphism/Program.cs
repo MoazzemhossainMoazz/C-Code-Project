@@ -53,17 +53,26 @@ class Program
 {
     public static void Main(string[] args)
     {
-        double h = 5, w = 6, r = 4.5;
+        //double h = 5, w = 6, r = 4.5;
+
+        Console.Write("Enter radius value: ");
+        double r = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Enter Height value: ");
+        double h = Convert.ToDouble(Console.ReadLine());
+
+        Console.Write("Ente Width value: ");
+        double w = Convert.ToDouble(Console.ReadLine());
 
         Circle cr = new Circle(r);
-        Console.WriteLine(cr.Area());
+        Console.WriteLine("\nThe area of Circle: " + cr.Area());
 
 
         Rectangle rt = new Rectangle(h, w);
-        Console.WriteLine(rt.Area());
+        Console.WriteLine("The area of Rectangle: " + rt.Area());
 
 
         Triangle tr = new Triangle(h, w);
-        Console.WriteLine(tr.Area());
+        Console.WriteLine("The area of Triangle: " + tr.Area());
     }
 }

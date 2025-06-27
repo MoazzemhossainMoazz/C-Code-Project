@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract Class and Method",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Abstract and Polymorphism", "Abstract and Polymorphism\Abstract and Polymorphism.csproj", "{ED23B599-3A7F-410F-B93D-41E1BA0153DD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Real word OOP project", "Real word OOP project\Real word OOP project.csproj", "{F79281B1-98C5-4277-BE87-E63EB18D3458}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{ED23B599-3A7F-410F-B93D-41E1BA0153DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ED23B599-3A7F-410F-B93D-41E1BA0153DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ED23B599-3A7F-410F-B93D-41E1BA0153DD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F79281B1-98C5-4277-BE87-E63EB18D3458}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F79281B1-98C5-4277-BE87-E63EB18D3458}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F79281B1-98C5-4277-BE87-E63EB18D3458}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F79281B1-98C5-4277-BE87-E63EB18D3458}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

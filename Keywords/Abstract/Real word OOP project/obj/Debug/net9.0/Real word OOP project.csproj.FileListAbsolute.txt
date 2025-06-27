@@ -1,0 +1,15 @@
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\bin\Debug\net9.0\Real word OOP project.exe
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\bin\Debug\net9.0\Real word OOP project.deps.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\bin\Debug\net9.0\Real word OOP project.runtimeconfig.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\bin\Debug\net9.0\Real word OOP project.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\bin\Debug\net9.0\Real word OOP project.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\obj\Debug\net9.0\Real word OOP project.GeneratedMSBuildEditorConfig.editorconfig
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\obj\Debug\net9.0\Real word OOP project.AssemblyInfoInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\obj\Debug\net9.0\Real word OOP project.AssemblyInfo.cs
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\obj\Debug\net9.0\Real word OOP project.csproj.CoreCompileInputs.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\obj\Debug\net9.0\Real word OOP project.sourcelink.json
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\obj\Debug\net9.0\Real word OOP project.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\obj\Debug\net9.0\refint\Real word OOP project.dll
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\obj\Debug\net9.0\Real word OOP project.pdb
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\obj\Debug\net9.0\Real word OOP project.genruntimeconfig.cache
+D:\TechnoArt\My Work\For Learn\C#\Keywords\Abstract\Real word OOP project\obj\Debug\net9.0\ref\Real word OOP project.dll
